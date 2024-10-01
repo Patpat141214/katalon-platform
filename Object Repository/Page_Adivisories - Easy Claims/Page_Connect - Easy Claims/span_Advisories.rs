@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Advisories</name>
+   <tag></tag>
+   <elementGuidId>a0c43968-3df1-4184-9383-cbaa1b0fcd03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#advisories-nav > a.flex-cell.commandbar-item-link.flex-grow.no-child > span.flex-grow.commandbar-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='advisories-nav']/a/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Advisories&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d6b4fbeb-1768-4dc0-92fe-474c193cd647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-grow commandbar-item-text</value>
+      <webElementGuid>5f20514d-eeea-4362-9516-58cece292b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Advisories</value>
+      <webElementGuid>a273a856-5941-4df3-829e-72bc860dc62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advisories-nav&quot;)/a[@class=&quot;flex-cell commandbar-item-link flex-grow no-child&quot;]/span[@class=&quot;flex-grow commandbar-item-text&quot;]</value>
+      <webElementGuid>c0c48856-698d-47c9-b23d-acf040b645ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='advisories-nav']/a/span[3]</value>
+      <webElementGuid>56a961c1-396c-461c-89b6-3134486da76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medicine'])[1]/following::span[5]</value>
+      <webElementGuid>bd60d3da-bbde-4240-8276-7ce785536f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Claim'])[1]/following::span[9]</value>
+      <webElementGuid>2a516a91-2ece-40d4-88e6-441ae1128a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect'])[1]/preceding::span[5]</value>
+      <webElementGuid>427e6ef4-f012-46b6-a86b-da85e73036b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log off'])[1]/preceding::span[9]</value>
+      <webElementGuid>4b5f2d7c-e627-4bd9-a78e-cd6f3705a88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advisories']/parent::*</value>
+      <webElementGuid>e6e66091-965e-41bd-a811-c73edb300dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/a/span[3]</value>
+      <webElementGuid>327bb7eb-8822-43c6-b72a-2f2165fdcf00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Advisories' or . = 'Advisories')]</value>
+      <webElementGuid>a965c9f3-bdc1-4040-907a-59b33ab09f93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

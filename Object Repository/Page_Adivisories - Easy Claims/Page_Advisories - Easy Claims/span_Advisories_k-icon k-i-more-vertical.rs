@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Advisories_k-icon k-i-more-vertical</name>
+   <tag></tag>
+   <elementGuidId>d56ae35f-d0d1-46bb-8950-7d7b1c513036</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-more-vertical</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=columnheader[name=&quot;Edit Column Settings Title&quot;i] >> internal:label=&quot;Edit Column Settings&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f47c4497-044f-416e-9f43-e7e457da96b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-more-vertical</value>
+      <webElementGuid>c909d5e4-1456-4d68-87b2-2a10afaed254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d3a72c84-9988-44ca-93cb-94226881a2e6&quot;)/a[@class=&quot;k-header-column-menu&quot;]/span[@class=&quot;k-icon k-i-more-vertical&quot;]</value>
+      <webElementGuid>083e3232-0d0a-45e9-a634-146ce4b9936a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='d3a72c84-9988-44ca-93cb-94226881a2e6']/a/span</value>
+      <webElementGuid>e13979f9-75b1-475e-9f2a-cf2d24158ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/a/span</value>
+      <webElementGuid>2ad2388e-4c06-4f2c-b99e-a951842abd6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

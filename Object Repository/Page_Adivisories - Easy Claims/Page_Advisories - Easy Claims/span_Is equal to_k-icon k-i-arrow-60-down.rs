@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is equal to_k-icon k-i-arrow-60-down</name>
+   <tag></tag>
+   <elementGuidId>07434fc7-0027-4475-b2da-028e568460b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-60-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='96c260a0-74e1-47e7-b4ec-e917a5b10a6a']/li[6]/div/ul/li/div/form/div/span/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listbox[name=&quot;Operator&quot;s] >> internal:label=&quot;select&quot;i >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b631ef1a-ced5-404d-91af-f9496b97266d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-down</value>
+      <webElementGuid>ebaba71a-7da8-4304-9964-4ac3ca58b265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;96c260a0-74e1-47e7-b4ec-e917a5b10a6a&quot;)/li[@class=&quot;k-item k-menu-item k-filter-item k-state-default k-last k-state-border-right&quot;]/div[@class=&quot;k-animation-container&quot;]/ul[@class=&quot;k-group k-menu-group k-popup k-reset k-state-border-left&quot;]/li[@class=&quot;k-item k-menu-item k-state-default k-first k-last&quot;]/div[@class=&quot;k-filterable k-content&quot;]/form[@class=&quot;k-filter-menu&quot;]/div[@class=&quot;k-filter-menu-container&quot;]/span[@class=&quot;k-widget k-dropdown&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
+      <webElementGuid>0f80be85-e254-4a47-978c-2b12bb754b54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='96c260a0-74e1-47e7-b4ec-e917a5b10a6a']/li[6]/div/ul/li/div/form/div/span/span/span[2]/span</value>
+      <webElementGuid>d5014cdd-a55b-481f-bc71-6753750e906c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]/span</value>
+      <webElementGuid>9d1fe9a1-d75e-473d-8215-be14fa0dcf9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
