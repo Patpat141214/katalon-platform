@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLegacyLoginAndHospitalAndUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ffac5c33-d76d-4403-856a-707506f734df</testCaseGuid>
+</TestCaseEntity>

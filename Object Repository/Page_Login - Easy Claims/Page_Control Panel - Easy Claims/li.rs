@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li</name>
+   <tag></tag>
+   <elementGuidId>0502fe81-bf71-4478-b7c3-ce8dd23bc092</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(20)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='hospitalInfoForm']/ul/li[20]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Add Hospital&quot;i >> li >> internal:has-text=&quot;Save&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3d4149c8-a7be-4434-82e2-651c67c9b536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hospitalInfoForm&quot;)/ul[@class=&quot;flex-list&quot;]/li[20]</value>
+      <webElementGuid>6741b93a-3cc6-4509-9e4b-fb06aeffae51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='hospitalInfoForm']/ul/li[20]</value>
+      <webElementGuid>6a7a0fc9-d958-48ff-ada5-b07636d872e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code'])[1]/following::li[1]</value>
+      <webElementGuid>9647252d-5737-4840-abf7-fcf1f8ce0c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Province'])[2]/following::li[2]</value>
+      <webElementGuid>edbec4ae-43f7-4a23-83e5-90388d7e3a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A. BELTRAN (CAMALIG)'])[1]/preceding::li[13]</value>
+      <webElementGuid>8ffa38f5-9482-40ad-9128-6d6976f279b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A. BONIFACIO'])[1]/preceding::li[14]</value>
+      <webElementGuid>d3c02840-19a6-45d0-8fb2-9b9c833289c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[20]</value>
+      <webElementGuid>e4e29dea-705c-48d1-a861-806820131116</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

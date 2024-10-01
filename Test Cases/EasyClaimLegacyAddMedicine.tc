@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLegacyAddMedicine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a285acbb-9367-419c-ada7-e469d763ab0d</testCaseGuid>
+</TestCaseEntity>

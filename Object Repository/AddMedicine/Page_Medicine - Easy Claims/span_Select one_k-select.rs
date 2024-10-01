@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select one_k-select</name>
+   <tag></tag>
+   <elementGuidId>a895affe-01f8-43d5-993b-655f83bc780b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused > span.k-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MedicineForm']/div[6]/div[2]/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Add Medicine&quot;i >> div >> internal:has-text=&quot;Strength Code Select one Description Fill out Strength Code Description&quot;i >> internal:label=&quot;select&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9bb6d552-05ca-4c13-bf91-7b83774f7310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>f687a564-a055-4641-b0db-004f1bfece17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-select</value>
+      <webElementGuid>cf6aa49b-13c4-4c0a-a4b0-0dab0f730377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>31837886-07e8-4f4c-8462-ad4f1e65878d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MedicineForm&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-12&quot;]/span[@class=&quot;k-widget k-dropdown&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]</value>
+      <webElementGuid>365530af-803a-4b22-8a07-27c9051e508d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MedicineForm']/div[6]/div[2]/span/span/span[2]</value>
+      <webElementGuid>838f52c2-45aa-4f0d-8bd5-6ac56e5aafb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select one'])[1]/following::span[1]</value>
+      <webElementGuid>34040dda-8a90-4570-a4c5-16b8134554e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[3]/following::span[4]</value>
+      <webElementGuid>f6f6a4e9-9195-4b3d-83da-5a2854acb30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[3]/preceding::span[2]</value>
+      <webElementGuid>c5ee997b-0073-4d80-88aa-34251061a16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fill out Strength Code Description'])[1]/preceding::span[2]</value>
+      <webElementGuid>92e8052c-d597-4d04-8b1c-4675d7285a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/span/span/span[2]</value>
+      <webElementGuid>9bfa9cac-f16c-4f2b-90bb-379355f81f61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

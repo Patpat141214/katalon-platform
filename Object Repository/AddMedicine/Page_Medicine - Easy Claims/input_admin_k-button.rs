@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_admin_k-button</name>
+   <tag></tag>
+   <elementGuidId>99c0b8de-a8e2-4c8e-9bff-bb81e8c861b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.k-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Add Medicine']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Medicine&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1c3eeced-6b41-4c0f-9f91-9ed6f8086f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0dba3474-1e33-400d-a4b2-d88fb3d1bd77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add Medicine</value>
+      <webElementGuid>d196350a-77d1-4a4e-895f-d86bd52c0fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button</value>
+      <webElementGuid>7c0fb776-c36f-426b-a5a8-a3c35ca485af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showMedicineForm()</value>
+      <webElementGuid>b2888677-3383-4a13-8a63-70b532d2b7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit129 js&quot;]/body[@class=&quot;k-content&quot;]/div[@class=&quot;full-size&quot;]/div[@class=&quot;full-size page&quot;]/div[@class=&quot;flex-column full-size&quot;]/div[@class=&quot;main-container flex-row flex-grow scroll-hidden&quot;]/div[@class=&quot;flex-column flex-grow scroll-hidden&quot;]/div[@class=&quot;v-scroll-auto flex flex-grow relative region-content&quot;]/div[@class=&quot;flex absolute-fill&quot;]/div[@class=&quot;content-host h-scroll-hidden&quot;]/div[@class=&quot;content&quot;]/p[1]/input[@class=&quot;k-button&quot;]</value>
+      <webElementGuid>6f998a3a-a101-4fdb-b7b7-c0ea40977b32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Add Medicine']</value>
+      <webElementGuid>fd3e4932-70b0-447c-8a65-1ee04e1b90a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/input</value>
+      <webElementGuid>a1c0aa8b-38e4-4419-934e-cbb2488881c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>3fa6f81b-6247-4d7a-9b2d-8aa17122d50f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

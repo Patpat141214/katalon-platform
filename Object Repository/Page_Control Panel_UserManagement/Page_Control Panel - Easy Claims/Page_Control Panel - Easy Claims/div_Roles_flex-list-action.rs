@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Roles_flex-list-action</name>
+   <tag></tag>
+   <elementGuidId>eae851b5-aa5a-40c8-9d0d-1a13f39c8871</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(7) > div.flex-list-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userInfoForm']/ul/li[7]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Add User&quot;i >> div >> internal:has-text=&quot;Save&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5416336-a0ba-483a-a42b-9cfe0fa2333d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-list-action</value>
+      <webElementGuid>e1ee134f-b93b-484a-900d-34b7682a0ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userInfoForm&quot;)/ul[@class=&quot;flex-list&quot;]/li[7]/div[@class=&quot;flex-list-action&quot;]</value>
+      <webElementGuid>d93e5741-1251-404a-8383-a559589fd086</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userInfoForm']/ul/li[7]/div[2]</value>
+      <webElementGuid>b24e13fd-55bf-4393-aead-0d1f724edeeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[2]/following::div[5]</value>
+      <webElementGuid>28a26b75-22e6-4b78-9032-dbb58f36a028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/following::div[6]</value>
+      <webElementGuid>4a5dc225-6bcf-4daf-875e-d6ec1d70c4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECT ONE'])[2]/preceding::div[1]</value>
+      <webElementGuid>2fbae344-7d08-45a1-8519-8cd24a8c25b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eurolink Network Intl Corp'])[2]/preceding::div[3]</value>
+      <webElementGuid>305dfea2-6c66-4b64-a407-bee52839a300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div[2]</value>
+      <webElementGuid>aab24e3d-469b-4825-a456-29dc3a8ee6c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

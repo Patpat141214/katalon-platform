@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Street_field-input</name>
+   <tag></tag>
+   <elementGuidId>2db084f6-60c8-4d5d-a000-6fc130b315d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(15) > div.field-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='hospitalInfoForm']/ul/li[15]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Street&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2eed1b9d-ecff-4fdb-8aeb-2efd606008c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-input</value>
+      <webElementGuid>d61e1f5b-187c-4bbd-a246-a98f41f9dd91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hospitalInfoForm&quot;)/ul[@class=&quot;flex-list&quot;]/li[15]/div[@class=&quot;field-input&quot;]</value>
+      <webElementGuid>cc4c1957-3abe-4d5a-97de-0c79190d99d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='hospitalInfoForm']/ul/li[15]/div</value>
+      <webElementGuid>837430c0-fcfb-4b61-800b-b62d1b16a915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street'])[1]/following::div[1]</value>
+      <webElementGuid>2ee1fdec-add8-43d9-9760-3363685fb67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subd/Village'])[1]/following::div[2]</value>
+      <webElementGuid>ea92ae67-b69f-4017-87b7-6595a01d56b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barangay'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5662a9a-6977-4fb2-983e-d62a47493d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City/Municipality'])[1]/preceding::div[2]</value>
+      <webElementGuid>4e120bc9-8f47-4e9f-b577-5ca9fbc3bdeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/div</value>
+      <webElementGuid>9eaf5d12-a514-4648-a7df-414770f63897</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

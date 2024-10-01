@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Discharge Date and Time_k-icon k-i-calendar</name>
+   <tag></tag>
+   <elementGuidId>ca30198c-b6d8-4e50-a0db-752761b3d5a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='eligibilityForm']/div[9]/div/span/span/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-picker-wrap.k-state-default.k-state-hover > span.k-select > span.k-link.k-link-date > span.k-icon.k-i-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#eligibilityForm div >> internal:has-text=&quot;Discharge Date and Time&quot;i >> internal:label=&quot;Open the date view&quot;i >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0057792-96b8-4f1c-bf45-ec0e5ec67e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>25812983-4fcc-418c-9789-f240eb075251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-calendar</value>
+      <webElementGuid>3b2aadec-33dc-4a05-8d2a-07c03a9da035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eligibilityForm&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-12&quot;]/span[@class=&quot;k-widget k-datetimepicker range-date&quot;]/span[@class=&quot;k-picker-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-link k-link-date&quot;]/span[@class=&quot;k-icon k-i-calendar&quot;]</value>
+      <webElementGuid>33cf3a37-1536-461e-b84b-9e22f7ae60a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='eligibilityForm']/div[9]/div/span/span/span/span/span</value>
+      <webElementGuid>2729b076-e621-43dd-b699-df7d2006f3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/span/span/span/span/span</value>
+      <webElementGuid>a3934433-576d-465e-9636-4f9fb9afe02a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

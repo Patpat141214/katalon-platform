@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Admission Date and Time_k-icon k-i-calendar</name>
+   <tag></tag>
+   <elementGuidId>0b778e0e-c4ff-43a0-82b7-9139d6525b6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='admissionValidation']/span/span/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-picker-wrap.k-state-default.k-state-hover > span.k-select > span.k-link.k-link-date > span.k-icon.k-i-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#admissionValidation >> internal:label=&quot;Open the date view&quot;i >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f052748d-1497-470a-afa7-3bca0aea215a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>33ff098f-b253-462a-93fa-2961e2d25499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-calendar</value>
+      <webElementGuid>7ac47f93-9ea9-4042-bf88-dc9d6f5dbb47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admissionValidation&quot;)/span[@class=&quot;k-widget k-datetimepicker range-date&quot;]/span[@class=&quot;k-picker-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-link k-link-date&quot;]/span[@class=&quot;k-icon k-i-calendar&quot;]</value>
+      <webElementGuid>f53b521e-565a-46f0-8a0d-43132c07e384</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admissionValidation']/span/span/span/span/span</value>
+      <webElementGuid>312f04f6-5dcd-4512-9269-5ed29e2a5c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/span/span/span/span/span</value>
+      <webElementGuid>4e1db052-eb25-424a-a917-d82f6912f816</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

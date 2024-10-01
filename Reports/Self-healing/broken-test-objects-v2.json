@@ -1,0 +1,74 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _60f11f",
+      "brokenLocator": "//input[@id\u003d\u0027submitBtn\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//p/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _60f11f_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _08f184",
+      "brokenLocator": "//input[@id\u003d\u0027exportPDFBtn\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//p/input[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _08f184_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)_1",
+      "brokenLocator": "//li[@id\u003d\u0027control-panel_pb_active\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027sample@gmail.com\u0027])[3]/following::span[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)_1_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//ul[@id\u003d\u0027control-panel\u0027]/li[3]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Login - Easy Claims/Page_Control Panel - Easy Claims/input_Zip Code_k-button k-primary",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@value\u003d\u0027Save\u0027])[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Login - Easy Claims/Page_Control Panel - Easy Claims/input_Zip Code_k-button k-primary_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Control Panel_UserManagement/Page_Control Panel - Easy Claims/li_Admin",
+      "brokenLocator": "//li[@id\u003d\u002719a07408-7062-4901-b882-cab0dfdea46d\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//ul[@id\u003d\u0027Roles_listbox\u0027]/li",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Login - Easy Claims/Page_Control Panel - Easy Claims/li_Admin",
+      "brokenLocator": "//li[@id\u003d\u002724d67afa-6e92-4d1d-9050-1a795d7938f4\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//ul[@id\u003d\u0027Roles_listbox\u0027]/li",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

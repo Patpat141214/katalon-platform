@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Medicine</name>
+   <tag></tag>
+   <elementGuidId>03138a79-c25f-4061-b7ea-38d428ea2a34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.flex-cell.commandbar-item-link.flex-grow.no-child > span.flex-grow.commandbar-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='medicine-nav']/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Medicine&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52c31fff-bc1f-42ee-8371-45170a63ae5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-grow commandbar-item-text</value>
+      <webElementGuid>010f1d3a-b8fe-443e-94fc-1a5fb4eb245e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Medicine</value>
+      <webElementGuid>90f5691e-640c-4ccb-b1f2-172a7529867a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medicine-nav&quot;)/a[@class=&quot;flex-cell commandbar-item-link flex-grow no-child&quot;]/span[@class=&quot;flex-grow commandbar-item-text&quot;]</value>
+      <webElementGuid>cd95fad9-311d-4ec7-a100-aefab26f5046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='medicine-nav']/a/span[2]</value>
+      <webElementGuid>56977618-cbe6-4cf7-bef2-2575e6b9c609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Claim'])[1]/following::span[4]</value>
+      <webElementGuid>0c91c25e-1054-46d4-a1ca-36de33ca542e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim List'])[1]/following::span[8]</value>
+      <webElementGuid>fcc21a63-2ae4-4b0d-8c96-027ea0b97436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advisories'])[1]/preceding::span[5]</value>
+      <webElementGuid>b8d1ff3f-fc84-4d1b-8a28-1049da9585e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect'])[1]/preceding::span[10]</value>
+      <webElementGuid>f245b152-5a17-4eb7-80d1-357296d10bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Medicine']/parent::*</value>
+      <webElementGuid>1f04e174-6e55-40cb-8da4-bcbdb48830dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/span[2]</value>
+      <webElementGuid>3b6f9554-93c2-430a-a6db-a9fd4ad336b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Medicine' or . = 'Medicine')]</value>
+      <webElementGuid>43117951-170c-433c-8c28-dee0e57099c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
