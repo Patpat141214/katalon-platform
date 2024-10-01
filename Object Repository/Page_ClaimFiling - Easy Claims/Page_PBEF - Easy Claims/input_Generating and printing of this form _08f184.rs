@@ -6,12 +6,12 @@
    <elementGuidId>458ce4e1-4363-4ba1-a17a-1af509851150</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='exportPDFBtn']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#exportPDFBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p/input[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
