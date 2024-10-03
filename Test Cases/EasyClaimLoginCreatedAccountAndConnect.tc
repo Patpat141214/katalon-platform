@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLoginCreatedAccountAndConnect</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90a51900-88f2-47fc-b21e-d690002997c7</testCaseGuid>
+</TestCaseEntity>

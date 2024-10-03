@@ -17,16 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('EasyClaimLegacyConnect'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/span_Claims'))
+
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_Home - Easy Claims/a_File Claim'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/Create')
+WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Claim/Create')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_PIN_MemberPIN'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_PIN_MemberPIN'), 
-    '05-201174650-0')
+    '05-201601758-2')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/div_MemberGender_DefaultMaleFemale'))
 
@@ -36,10 +38,6 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Male_MemberGender'))
 
-WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Date of Birth_MemberBirthDate'))
-
-WebUI.setText(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Date of Birth_MemberBirthDate'), 
-    '1/24/1964')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/textarea_Mailing Address_MailingAddress'), 
     'mail@gmail.com')
@@ -68,12 +66,12 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'), 
-    'TRANSS1212')
+    'DRGTRANS4')
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Claim Number_ClaimNumber'), 
-    'CLAIMM1212')
+    'DRGCLAIMS4')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21'))
 
@@ -81,7 +79,7 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _e07ca8'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/Eligibility?forEditing=False')
+WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Claim/Eligibility?forEditing=False')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21'))
 
