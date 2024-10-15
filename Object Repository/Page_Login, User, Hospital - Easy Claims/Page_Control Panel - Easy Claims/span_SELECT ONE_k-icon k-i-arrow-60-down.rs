@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ea125126-909d-48d6-817e-b189ec800cd2</webElementGuid>
+      <webElementGuid>74347785-fa25-4eed-8ebe-ce5991769213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-icon k-i-arrow-60-down</value>
-      <webElementGuid>f179ea87-ce04-4ed3-8fd4-d169249c56a3</webElementGuid>
+      <webElementGuid>bc095268-5d22-4b09-b56b-13e24a83a40c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userInfoForm&quot;)/ul[@class=&quot;flex-list&quot;]/li[1]/div[@class=&quot;field-input&quot;]/span[@class=&quot;k-widget k-dropdown k-textbox-md&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
-      <webElementGuid>d66e7e8d-8e1c-4b1c-a42b-d6f7fd8fa12b</webElementGuid>
+      <webElementGuid>a31fe777-f794-473c-af13-1e89d68235d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='userInfoForm']/ul/li/div/span/span/span[2]/span</value>
-      <webElementGuid>d3ea80c5-c92b-4004-8aca-812fe4e787ef</webElementGuid>
+      <webElementGuid>d1a5fc46-bacb-4aeb-af3f-092ae3a04dcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/ul/li/div/span/span/span[2]/span</value>
-      <webElementGuid>66b908cb-2856-47ca-9a75-a8acb923d269</webElementGuid>
+      <webElementGuid>9a507c4f-8be0-4965-a973-302b86159e66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

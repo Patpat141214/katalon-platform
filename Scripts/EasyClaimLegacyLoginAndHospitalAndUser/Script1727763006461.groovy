@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Account/Login?ReturnUrl=%2FDRG_TEST%2FConnect%3FReturnUrl%3D%252FDRG_TEST%252FAccount%252FLogOff')
+WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'), 'patchedrgadmin')
+WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'), 'patche@admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'), 
     'nwr9I1qT+J0GbQ++JlYjHw==')
@@ -33,7 +33,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Login, User, Hospital - Ea
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Connect - Easy Claims/span_Control Panel'))
 
-WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/ControlPanel')
+WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/ControlPanel')
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)'))
 
@@ -86,4 +86,5 @@ WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Log off'))
+
 

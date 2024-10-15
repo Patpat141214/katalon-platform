@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3f1a800a-0b2f-4719-8c88-e7efc491d714</webElementGuid>
+      <webElementGuid>cd323b8c-bdee-4007-8431-48dd485b16d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-link k-header k-state-hover</value>
-      <webElementGuid>2a454441-33fa-4a89-930a-286287cdc702</webElementGuid>
+      <webElementGuid>82d63f79-1287-4a6a-9411-01d3b82d40e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
             User Management
             
         </value>
-      <webElementGuid>1bf0954c-5b49-4dce-9126-8ce887a33a71</webElementGuid>
+      <webElementGuid>b5310aab-58ff-4b71-891b-889b0af34462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;control-panel&quot;)/li[@class=&quot;k-item k-state-default&quot;]/span[@class=&quot;k-link k-header k-state-hover&quot;]</value>
-      <webElementGuid>c8ea62ad-444f-4b12-a862-6b69d1ecd307</webElementGuid>
+      <webElementGuid>20d4b19b-8b10-4288-9f95-7aa15475d704</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='control-panel']/li[2]/span</value>
-      <webElementGuid>b0ddce2d-1bd6-408c-93c9-f682e3727e43</webElementGuid>
+      <webElementGuid>94addfc8-321f-4d40-aa34-90453589c3f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect Password'])[1]/following::span[1]</value>
-      <webElementGuid>e76710a5-db94-4cdd-bbc1-2ce5248fc14e</webElementGuid>
+      <webElementGuid>35551477-0dc7-4857-92e5-f8c2940b092f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect Username'])[1]/following::span[1]</value>
-      <webElementGuid>0f3c7bbc-0cb0-49cc-bca1-bbaebbcaba31</webElementGuid>
+      <webElementGuid>7f903916-a76d-4c4c-8206-982f9d8975fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[3]</value>
-      <webElementGuid>6b6a8875-c10b-4054-b4ac-f13a4e141368</webElementGuid>
+      <webElementGuid>1bd75ff4-4156-4835-806e-8f8c797da67b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect Username'])[2]/preceding::span[4]</value>
-      <webElementGuid>0c15aaeb-b99e-4dbc-b195-d6e793a8327c</webElementGuid>
+      <webElementGuid>46069401-951e-4b2e-ace1-9e3fe53f85ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='User Management']/parent::*</value>
-      <webElementGuid>b4bff181-5a31-4544-8ec0-b2764d75345c</webElementGuid>
+      <webElementGuid>e7ba12c1-60b5-4213-8c4f-4b0cbf71dc93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/span</value>
-      <webElementGuid>6746a9f2-9f42-4f73-8055-98110d5214e9</webElementGuid>
+      <webElementGuid>d4ef7848-1b54-4a51-9121-cc662ecb25e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
             User Management
             
         ')]</value>
-      <webElementGuid>159beb26-e22b-4552-962d-206a6ec2c774</webElementGuid>
+      <webElementGuid>b933ccb5-16a9-4975-b1ee-3ec8b41a2a83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

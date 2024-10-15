@@ -23,7 +23,7 @@ WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_Home - Easy Claims/a_File Claim'))
 
-WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Claim/Create')
+WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/Create')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_PIN_MemberPIN'))
 
@@ -37,7 +37,6 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_PIN_fetchMemberBtn'))
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Male_MemberGender'))
-
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/textarea_Mailing Address_MailingAddress'), 
     'mail@gmail.com')
@@ -66,12 +65,12 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'), 
-    'DRGTRANS4')
+    'DRGTRANS10')
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Claim Number_ClaimNumber'), 
-    'DRGCLAIMS4')
+    'DRGCLAIMS10')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21'))
 
@@ -79,7 +78,7 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _e07ca8'))
 
-WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Claim/Eligibility?forEditing=False')
+WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/Eligibility?forEditing=False')
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21'))
 

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>38bca552-e112-4035-a0d1-596ceda18d71</webElementGuid>
+      <webElementGuid>55f5a971-ed26-4e31-92d1-504c669a692c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userInfoForm&quot;)/ul[@class=&quot;flex-list&quot;]/li[7]</value>
-      <webElementGuid>bdc64469-db87-40d8-9707-8f1a5f14c54c</webElementGuid>
+      <webElementGuid>f21fd354-625d-4316-8658-b44154deacc2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='userInfoForm']/ul/li[7]</value>
-      <webElementGuid>b381e41b-129a-4558-861e-ce945a1f1479</webElementGuid>
+      <webElementGuid>a19d9d32-1694-4a52-91f8-00faaab16b51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[13]/following::li[1]</value>
-      <webElementGuid>f4c3e3fc-c1bc-4246-ba45-1ac45c809769</webElementGuid>
+      <webElementGuid>14cecefd-0e5b-4368-b8df-871ca72b57f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[2]/following::li[2]</value>
-      <webElementGuid>42773ea6-c04b-4dda-9a96-b8e31a53feaa</webElementGuid>
+      <webElementGuid>2e9cc552-8df5-45bf-8062-5941dad420cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECT ONE'])[1]/preceding::li[1]</value>
-      <webElementGuid>b5eec7cd-c8fd-46a4-a2b7-1fe15e40d804</webElementGuid>
+      <webElementGuid>61b4b42d-3a27-4045-baf9-aba7ef90dd1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eurolink Network Intl Corp'])[2]/preceding::li[1]</value>
-      <webElementGuid>99d0c6f4-196f-4972-8c47-47522cae2fa5</webElementGuid>
+      <webElementGuid>05df279b-30c4-4b19-915f-4720e494ed1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/ul/li[7]</value>
-      <webElementGuid>9b281e87-cb53-4826-b35d-c837ae3221c6</webElementGuid>
+      <webElementGuid>75a5a345-4035-4f91-b3ba-a33b08530267</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

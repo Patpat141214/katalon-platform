@@ -6,12 +6,12 @@
    <elementGuidId>7f9b421d-cb9e-4d4f-801b-2ec9c17f16cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='ConnectUsername']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ConnectUsername</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

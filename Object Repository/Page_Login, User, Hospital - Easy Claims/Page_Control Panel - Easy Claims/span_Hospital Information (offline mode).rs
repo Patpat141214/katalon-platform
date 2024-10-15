@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b54bbaee-4b40-46a5-8aab-4b6c79ccb2cb</webElementGuid>
+      <webElementGuid>ba91db5e-62d4-4e50-8869-b02d668c39bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-link k-header k-state-hover</value>
-      <webElementGuid>b28a64c2-3c58-469c-bbf2-7fa27721c2de</webElementGuid>
+      <webElementGuid>ce698518-43bf-47ad-a4db-1ed8bf24444a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
         Hospital Information (offline mode)
         
     </value>
-      <webElementGuid>86cf0bc0-83d6-4316-aeb1-a1f828210296</webElementGuid>
+      <webElementGuid>c220c5de-f72a-4994-9a6c-02b4e3884c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;control-panel&quot;)/li[@class=&quot;k-item k-state-default&quot;]/span[@class=&quot;k-link k-header k-state-hover&quot;]</value>
-      <webElementGuid>c5f3b577-7123-4726-9264-94d4ddc0b11f</webElementGuid>
+      <webElementGuid>5c7b5437-4720-4220-b607-752ee99606a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='control-panel']/li[3]/span</value>
-      <webElementGuid>3d3a99e6-c53a-4bac-9179-b52a1268bbf6</webElementGuid>
+      <webElementGuid>6c6b92c8-6678-43a7-8068-e395a6a35f20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sample@gmail.com'])[3]/following::span[8]</value>
-      <webElementGuid>36742aff-8f48-4b93-beba-7dc36345d587</webElementGuid>
+      <webElementGuid>4e283f7b-f7c3-4434-bbb4-474014c5ea12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[7]/following::span[8]</value>
-      <webElementGuid>fedc89b0-153a-487d-945b-389e1086877f</webElementGuid>
+      <webElementGuid>cc0dcf49-27c2-406c-ae1d-287f71752b09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital Name'])[1]/preceding::span[3]</value>
-      <webElementGuid>7b1f5e43-bf99-4539-bccc-8dce40c9b010</webElementGuid>
+      <webElementGuid>8eafb68c-5a94-4bac-85a0-993822086747</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital Code'])[1]/preceding::span[4]</value>
-      <webElementGuid>f5cdae45-3917-42ce-9d36-314a1d923c89</webElementGuid>
+      <webElementGuid>da8c6cad-2a26-47bf-976d-81e8ed63bdaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hospital Information (offline mode)']/parent::*</value>
-      <webElementGuid>c756ff72-17b8-4a96-9b58-2c81c450ae4e</webElementGuid>
+      <webElementGuid>ef7a7287-a13a-40ba-9421-525d9c4f0bd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/span</value>
-      <webElementGuid>cce210cf-6ed2-4a77-9397-9b7ee3676e4a</webElementGuid>
+      <webElementGuid>9259033b-7926-42d4-abc3-494091bdf3d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
         Hospital Information (offline mode)
         
     ')]</value>
-      <webElementGuid>d6b79d5e-1a0f-48d7-b26f-c2bc863d001d</webElementGuid>
+      <webElementGuid>cb88e1c2-f613-47c3-a095-9311606107f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

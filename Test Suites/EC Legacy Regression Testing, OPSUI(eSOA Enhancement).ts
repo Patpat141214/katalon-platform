@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>EC Legacy Regression Testing, DRG(eSOA Enhancement)</name>
+   <name>EC Legacy Regression Testing, OPSUI(eSOA Enhancement)</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>

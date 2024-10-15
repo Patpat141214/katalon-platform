@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ac9091b8-3d47-4b86-8cca-b338c863fe4d</webElementGuid>
+      <webElementGuid>a31fd912-4ba2-45a4-a875-baebf7305e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>addUserBtn</value>
-      <webElementGuid>3ef97d30-7524-4281-bdfb-6d62df5868b4</webElementGuid>
+      <webElementGuid>3cc754a8-4dbd-442e-829b-c674a99b1a3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>89f202f4-6226-4f8b-b70b-12aa954a6d41</webElementGuid>
+      <webElementGuid>e3265cad-9f93-446b-82b6-cac71c03de3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Add User</value>
-      <webElementGuid>944dde6d-2f9b-4698-a02e-167c73836659</webElementGuid>
+      <webElementGuid>9bd4d449-b5ee-4e80-8062-1c58d2f21b0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-primary</value>
-      <webElementGuid>735371d3-ba7e-47ae-998b-9d2cb6f68822</webElementGuid>
+      <webElementGuid>4dd24bb6-b548-4cdb-9cd5-da6f2e61572c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>addUser()</value>
-      <webElementGuid>dacf690c-5882-499c-a26b-ae7b7313b0a7</webElementGuid>
+      <webElementGuid>faaab92b-d459-44c1-a75f-e423e160e51b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;addUserBtn&quot;)</value>
-      <webElementGuid>a7a45b62-ca7c-413a-b579-e781c3158b61</webElementGuid>
+      <webElementGuid>53256c54-6a16-4a9b-bbaf-94b1ffd77959</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='addUserBtn']</value>
-      <webElementGuid>6d2d4e23-e8e4-4a77-b689-70b1da113b8f</webElementGuid>
+      <webElementGuid>f5599836-05fc-499f-ad7f-9f4f584c3091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='control-panel']/li[2]/div/p/input</value>
-      <webElementGuid>dace4457-32db-4650-a30b-263802c8cb5d</webElementGuid>
+      <webElementGuid>c9d9d5cd-c9a5-4b91-a714-56933eaeeb04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/input</value>
-      <webElementGuid>be4e0a3b-1adc-41dc-b754-f44a6f61c9ca</webElementGuid>
+      <webElementGuid>be107164-126c-4e19-83cc-da24b1cb9fc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'addUserBtn' and @type = 'button']</value>
-      <webElementGuid>fbb7c35a-8e0c-42ae-931f-66a67e5d53d8</webElementGuid>
+      <webElementGuid>9f68291a-7ac1-46db-a0e5-a6ce89fa7ffe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d2053b12-22d5-4481-b94d-539590191440</webElementGuid>
+      <webElementGuid>babf16df-d512-45b4-a57d-dac36543a38c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>hospitalInfoWindow</value>
-      <webElementGuid>3e37a1a0-fe07-4d72-a0b8-e9ac2017a91a</webElementGuid>
+      <webElementGuid>d65fe3cc-c997-4aa4-bb44-1eb94ead5877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>window</value>
-      <webElementGuid>7ffc962b-9d14-4f69-b579-55287b2c6210</webElementGuid>
+      <webElementGuid>7790fcbd-066d-4b7a-9058-72479b0edfa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-window-content</value>
-      <webElementGuid>e77cba38-1bfe-4a62-a9da-dc5281ec259e</webElementGuid>
+      <webElementGuid>b86c7807-d225-461a-ada2-af2023140392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>772d7c77-9fda-4c32-a90a-f1dbf3432626</webElementGuid>
+      <webElementGuid>de45b8fc-3402-4034-8e40-e78a6ecd2afa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>9f78ff6f-92dd-4ae8-9847-835170c0b8d8</webElementGuid>
+      <webElementGuid>13051776-25e2-4ffa-9c88-54c3539db446</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>hospitalInfoWindow_wnd_title</value>
-      <webElementGuid>c1467388-70c5-4018-a076-5f8125deced5</webElementGuid>
+      <webElementGuid>0a3708e2-7f8e-4bdb-85e5-f44485b2c2c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -220,7 +220,7 @@
             
         
     </value>
-      <webElementGuid>654bbff1-3303-4293-b0b9-da06ca7899dc</webElementGuid>
+      <webElementGuid>629be481-d3ea-4902-8b3e-9a37c98b637a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -228,7 +228,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;hospitalInfoWindow&quot;)</value>
-      <webElementGuid>8517add3-e3cc-43e9-85cc-6771d1033af2</webElementGuid>
+      <webElementGuid>e797c937-3b99-4a0b-9d67-770e29cc6a84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -236,7 +236,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='hospitalInfoWindow']</value>
-      <webElementGuid>2f9ef012-f8d9-493d-8328-fc0c244723bb</webElementGuid>
+      <webElementGuid>ee7efd27-7ffe-4caa-a865-b6c804693276</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -244,7 +244,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Hospital'])[1]/following::div[2]</value>
-      <webElementGuid>0f0b83a0-969b-486f-baa5-857aa1613869</webElementGuid>
+      <webElementGuid>456daf16-9821-43c4-b90b-31273cd3c31d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -252,7 +252,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::div[5]</value>
-      <webElementGuid>05e8406f-bb70-4e24-9405-aef8e2dc0bd5</webElementGuid>
+      <webElementGuid>94e2b12e-6204-4f23-85af-a1bc5193dc2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -260,7 +260,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[23]/div[2]</value>
-      <webElementGuid>5e3fd1ff-0238-4fad-881f-a6ce381acb5c</webElementGuid>
+      <webElementGuid>33a09285-19e3-4a1b-a485-abab4a907282</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -538,6 +538,6 @@
             
         
     ')]</value>
-      <webElementGuid>e8f3504a-681a-4cf0-9dea-7733cbc6028f</webElementGuid>
+      <webElementGuid>44ba8230-39fa-4c52-887b-021912af94d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

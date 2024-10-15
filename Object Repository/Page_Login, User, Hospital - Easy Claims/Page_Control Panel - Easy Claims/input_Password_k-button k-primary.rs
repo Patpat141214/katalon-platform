@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>55cac233-de2d-4137-a61e-76b8c8ca7b72</webElementGuid>
+      <webElementGuid>635a4e19-b78c-4fd5-b3e4-c7d572262a86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>031fe3e3-fe8a-44dd-be65-21f00ebf8243</webElementGuid>
+      <webElementGuid>a35c663a-784e-478f-9f6c-e0a2a24ded93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Verify</value>
-      <webElementGuid>4cfcf9a3-d086-4c84-a38e-3487371d588f</webElementGuid>
+      <webElementGuid>a71d5eb8-7278-477d-a303-ae4166d63358</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-primary</value>
-      <webElementGuid>20e4d295-fa25-4ec2-a894-c27849f2e57a</webElementGuid>
+      <webElementGuid>ae67b040-e000-41c5-a425-5a91a2837f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;connectForm&quot;)/input[@class=&quot;k-button k-primary&quot;]</value>
-      <webElementGuid>b13fcf18-1204-4247-a2bf-49603ce370e0</webElementGuid>
+      <webElementGuid>e66a3a6a-0569-4d35-8c44-7bca85a9e934</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Verify']</value>
-      <webElementGuid>4f95e9bf-8821-4eab-a09f-0b90e4475a5a</webElementGuid>
+      <webElementGuid>e1091286-db8d-4192-8395-50783ff93ab3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='connectForm']/input[3]</value>
-      <webElementGuid>4527052a-f045-4938-a8ee-87e476ddc3e9</webElementGuid>
+      <webElementGuid>07324304-d9e1-43dd-b658-7c082b8a1c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/input[3]</value>
-      <webElementGuid>79676d6e-7a5d-4b50-9be1-b4a7f0fd8032</webElementGuid>
+      <webElementGuid>8b149138-b169-413b-9684-eccc1a786cba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>adc455d5-1e4c-467e-9643-a9dc2cd43e21</webElementGuid>
+      <webElementGuid>746375ff-e87d-4d90-9f5a-cee9a6465d53</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

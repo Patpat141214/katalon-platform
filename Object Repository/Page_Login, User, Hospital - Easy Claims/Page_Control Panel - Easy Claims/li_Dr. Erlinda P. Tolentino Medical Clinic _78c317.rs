@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='HospitalInformationId_listbox']/li[8]</value>
+         <value>//ul[@id='HospitalInformationId_listbox']/li[14]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>bdbf339f-2b05-4d31-9c87-b56336754f25</webElementGuid>
+      <webElementGuid>e6fb19c3-013e-453a-bceb-3af7fef63591</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>934084b3-cff3-40b0-8ab4-ed99000c0ad7</webElementGuid>
+      <webElementGuid>7a552907-a9de-433b-9de2-0fb903e0e228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>74669718-859a-4671-912b-0791f510cc39</webElementGuid>
+      <webElementGuid>e32a676c-227d-4058-83a3-93a9f1213c16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>19d4c7ec-1a6c-4bb5-9d37-3d825e565a5a</webElementGuid>
+      <webElementGuid>f860a486-2f07-4627-8fe8-03f8d084ef1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item k-state-hover</value>
-      <webElementGuid>8a2b340d-1346-48dd-b92c-bc8950603420</webElementGuid>
+      <webElementGuid>efc4b7ca-9038-4805-a574-d48b6a2772a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3725ae3c-b7f7-4655-b424-be51a894426f</webElementGuid>
+      <webElementGuid>aedae5b2-3389-46de-bf30-d842c25caff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-offset-index</name>
       <type>Main</type>
-      <value>7</value>
-      <webElementGuid>b6f27674-a00c-4e69-9a65-adf90b2e1f9c</webElementGuid>
+      <value>13</value>
+      <webElementGuid>dea62c60-dbbf-4003-ad3e-998497979ce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dr. Erlinda P. Tolentino Medical Clinic and Hospital</value>
-      <webElementGuid>6ec8511d-4936-48ee-8d5c-a58331386ee9</webElementGuid>
+      <webElementGuid>359ffef1-c3f3-4b5d-9a9c-01a6fb1ad70d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,55 +93,55 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;HospitalInformationId_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
-      <webElementGuid>6dc8b396-869f-40f6-a3e4-4bc6e67e1729</webElementGuid>
+      <webElementGuid>777500c8-6e68-47be-9b4e-58770f31f4dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='HospitalInformationId_listbox']/li[8]</value>
-      <webElementGuid>ece80b95-6fec-41a7-a6f7-a0723921941e</webElementGuid>
+      <value>//ul[@id='HospitalInformationId_listbox']/li[14]</value>
+      <webElementGuid>508655bd-f9be-4ec9-93a1-8b0b339930c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GMF Hospital'])[2]/following::li[1]</value>
-      <webElementGuid>9ab6893c-4109-46b6-aac6-1d9d823f77ec</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonpen Ambulatory Surgical and Diagnostic Center'])[2]/following::li[1]</value>
+      <webElementGuid>73c80876-ddc4-4cb1-96c2-acdfee590c16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mapandan Community Hospital'])[2]/following::li[2]</value>
-      <webElementGuid>14a5b4cf-e1c3-48d1-ba46-4d4c6175469e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Western Pangasinan District Hospital - Animal Bites'])[2]/following::li[2]</value>
+      <webElementGuid>688526b3-e04e-4c2f-8359-ed7de7b29591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[7]/preceding::li[1]</value>
-      <webElementGuid>eb3d98af-53d9-4c17-a23c-49dd9a072ca7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[2]/preceding::li[1]</value>
+      <webElementGuid>45447649-7964-4b1d-b26f-dadc12540b3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[17]/preceding::li[1]</value>
-      <webElementGuid>32f5082a-89f8-4a32-8340-2bd74665165c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[21]/preceding::li[1]</value>
+      <webElementGuid>4313c662-08a4-41c6-b6be-37e0267cafed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[30]/div/div[3]/ul/li[8]</value>
-      <webElementGuid>da9b5d81-3553-4e01-a585-9fcc3491eb78</webElementGuid>
+      <value>//li[14]</value>
+      <webElementGuid>9e8bf322-a63d-4f9e-a43d-a447c1319514</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Dr. Erlinda P. Tolentino Medical Clinic and Hospital' or . = 'Dr. Erlinda P. Tolentino Medical Clinic and Hospital')]</value>
-      <webElementGuid>97b2d306-3de2-434a-b1a1-22b5d83121ef</webElementGuid>
+      <webElementGuid>c7309c6a-f480-4b24-8fb1-8699a6dee4fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

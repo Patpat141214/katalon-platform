@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>427e4683-b0ca-4951-af7c-fe8f7df408a1</webElementGuid>
+      <webElementGuid>e2a24b58-a7e2-4ca9-9b27-3ef2d21a28e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>no-text-transform k-input</value>
-      <webElementGuid>56cbf6dc-49ed-42f4-a50b-7b50458b9cc2</webElementGuid>
+      <webElementGuid>9341e567-fc7a-4615-8851-de43a145b4b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The username field is required</value>
-      <webElementGuid>5bd1cc19-ec17-4fdd-9766-d0c29bded53c</webElementGuid>
+      <webElementGuid>9ce6dad2-a36c-44a3-9c16-6838e5854294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ConnectUserName</value>
-      <webElementGuid>bb1c78f4-daab-4ddb-926c-7e5996938f17</webElementGuid>
+      <webElementGuid>b4b4d429-6272-47fc-baf2-88e14560bd51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ConnectUserName</value>
-      <webElementGuid>fb7f55ff-9986-4480-8b0b-9c7196bec171</webElementGuid>
+      <webElementGuid>dfae8e6e-9c04-4dab-8103-35208d9a524f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>required</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>486fe4e6-6e0b-4aa4-8850-4244fc18fe56</webElementGuid>
+      <webElementGuid>edcca096-b55c-4b1e-91c7-242481b7ac6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>81532a08-d16c-4d3c-8efb-37dc49ef3dd9</webElementGuid>
+      <webElementGuid>f91c7c8a-a80b-4098-a506-3a2269881cbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6c0cbb35-adfa-4d70-86d1-a0131574497b</webElementGuid>
+      <webElementGuid>c8ee0a8a-8f9a-4162-bdce-d9cd4b3f1e06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>64bfaab6-1db6-4c7f-871d-f153bc5e511f</webElementGuid>
+      <webElementGuid>499ac454-dc58-493b-9780-c1b5aa08e660</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ConnectUserName&quot;)</value>
-      <webElementGuid>727e9351-59c8-40df-875b-63f2752e2baa</webElementGuid>
+      <webElementGuid>f5081468-1fde-4378-89c7-7b5120d533f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ConnectUserName']</value>
-      <webElementGuid>1c276295-954e-4cda-b4d0-776ae9561597</webElementGuid>
+      <webElementGuid>c3ff7045-adbd-4836-a442-e9eeba1336e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='connectForm']/div/span/input</value>
-      <webElementGuid>383e9703-e87d-4d12-9345-fcf505048807</webElementGuid>
+      <webElementGuid>68b30a9d-a214-4028-9115-b10077709738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/span/input</value>
-      <webElementGuid>81599ae6-e678-4e50-a993-5712c2d6a048</webElementGuid>
+      <webElementGuid>bbc8e4c6-bb29-4979-b2a5-f2b4e4b54777</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'ConnectUserName' and @name = 'ConnectUserName']</value>
-      <webElementGuid>a03a0356-e186-4df2-80f7-7992cfeba1d6</webElementGuid>
+      <webElementGuid>d313736a-be4c-405c-8bf9-8967ac22c074</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

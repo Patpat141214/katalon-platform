@@ -1,14 +1,3 @@
 {
-  "brokenTestObjects": [
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Page_Connect - Easy Claims/input_Username_Username",
-      "brokenLocator": "//input[@id\u003d\u0027ConnectUsername\u0027]",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "//span/input",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Connect - Easy Claims/input_Username_Username_position.png"
-    }
-  ]
+  "brokenTestObjects" : [ ]
 }

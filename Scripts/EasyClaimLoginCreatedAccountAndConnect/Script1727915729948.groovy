@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Account/Login?ReturnUrl=%2FDRG_TEST%2FConnect%3FReturnUrl%3D%252FDRG_TEST%252FAccount%252FLogOff')
+WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F')
 
 WebUI.setText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Username_Username'), 
     'patcheadmin3')
@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginAccountCreate
 
 WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Password_submitBtn'))
 
-WebUI.navigateToUrl('http://172.30.1.26/DRG_TEST/Connect?ReturnUrl=%2FDRG_TEST%2FConnect%3FReturnUrl%3D%252FDRG_TEST%252FAccount%252FLogOff')
+WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Connect?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F')
 
 WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Username_Username'))
 
@@ -38,6 +38,4 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginAccountCreate
     'Ov4DKeIvXLiGp9jFpjbR/w==')
 
 WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Password_k-button k-primary'))
-
-
 

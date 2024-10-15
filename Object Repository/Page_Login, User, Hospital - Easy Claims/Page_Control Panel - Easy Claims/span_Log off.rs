@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e6d273ba-dbfd-4ef2-8ba3-412e18163090</webElementGuid>
+      <webElementGuid>9e2a4443-c915-4beb-93ee-71ebedfaa91a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex-grow commandbar-item-text</value>
-      <webElementGuid>1aa640ab-a60c-476d-9490-9253019d82c5</webElementGuid>
+      <webElementGuid>84b0a602-f624-4749-a114-ee0f2a4d157f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log off</value>
-      <webElementGuid>fa53402e-ad97-4336-b473-eff687d05dbd</webElementGuid>
+      <webElementGuid>9f15e37f-098d-436b-8e24-8dc8f85cd9a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;logoutForm&quot;)/div[@class=&quot;commandbar-item cursor-pointer commandbar-item-menu icon-hover-only primary no-child&quot;]/a[@class=&quot;flex-cell commandbar-item-link flex-grow&quot;]/span[@class=&quot;flex-grow commandbar-item-text&quot;]</value>
-      <webElementGuid>09f2e238-4232-4bf6-8291-dabe34c2bf91</webElementGuid>
+      <webElementGuid>f5c4d03e-2057-4df9-88dc-75c9ad920331</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='logoutForm']/div/a/span[2]</value>
-      <webElementGuid>b978b703-db49-4611-b9cb-d6ca95c8f098</webElementGuid>
+      <webElementGuid>97ea1862-8f33-4d30-9d2b-c01242e65c2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect'])[1]/following::span[4]</value>
-      <webElementGuid>8f1bbd94-66d8-4176-8769-866f71c1f7a5</webElementGuid>
+      <webElementGuid>7a5dad39-c281-4829-b91a-ddace348fbad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Advisories'])[1]/following::span[9]</value>
-      <webElementGuid>4980e443-a17b-440e-a67e-5f4c5e52a2d2</webElementGuid>
+      <webElementGuid>f3c6c9a6-5e91-428b-988d-27da50bd2450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Control Panel'])[1]/preceding::span[4]</value>
-      <webElementGuid>54f3e2b7-a0bd-4e0b-8f45-0ef069c63c25</webElementGuid>
+      <webElementGuid>14a731f7-f049-4547-a31c-c934f3902411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Control Panel'])[2]/preceding::span[13]</value>
-      <webElementGuid>716486f1-a703-402c-8a28-79c847535bcf</webElementGuid>
+      <webElementGuid>22a56ee9-ea95-4174-a8bf-04573e6497a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Log off']/parent::*</value>
-      <webElementGuid>e814f9ed-fa99-4f45-9fcd-05dadd0907e1</webElementGuid>
+      <webElementGuid>366cd1fd-f5d7-4df4-b29f-c4529793dbb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/a/span[2]</value>
-      <webElementGuid>67a25428-bed1-4d79-9a0a-c47b3b84833d</webElementGuid>
+      <webElementGuid>b4943719-aaa8-4bd6-9c2b-27833ab58ad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Log off' or . = 'Log off')]</value>
-      <webElementGuid>bb88b083-9a57-44a3-a7db-8abecfba5ede</webElementGuid>
+      <webElementGuid>9c8451cc-1833-42a6-924d-7b6135c4c8d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
