@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>EasyClaimLegacyFileClaiming</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5d594caf-0336-480d-a865-fa3b46784d84</testCaseGuid>
-</TestCaseEntity>

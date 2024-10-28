@@ -29,7 +29,14 @@
       <guid>67fe23e6-df89-41a8-8cf4-69bdbe7161ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EasyClaimLegacyFileClaiming</testCaseId>
+      <testCaseId>Test Cases/EasyClaimLegacyFileClaiming_CheckEligibility</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>760ed51c-f27e-41b9-b850-d0a65334e652</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EasyClaimLegacyFileClaiming_ConfinementInformation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

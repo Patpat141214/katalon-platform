@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Roles_k-multiselect-wrap k-floatwrap</name>
+   <tag></tag>
+   <elementGuidId>d8a0a1b7-7484-47dd-bc55-d8c27f7e8e66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-multiselect-wrap.k-floatwrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']/ul/li[5]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listbox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>904dec5a-393b-4ba6-a27e-5a5058ff6648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-multiselect-wrap k-floatwrap</value>
+      <webElementGuid>ae56fa68-2201-40c1-8894-483970571214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>31473826-2829-4572-84ea-f73dd00e60e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>47a08f66-d76f-44db-865a-37f79279bcf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)/ul[@class=&quot;flex-list&quot;]/li[5]/div[@class=&quot;field-input&quot;]/div[@class=&quot;k-widget k-multiselect k-multiselect-clearable k-state-hover k-state-focused k-state-border-down&quot;]/div[@class=&quot;k-multiselect-wrap k-floatwrap&quot;]</value>
+      <webElementGuid>f6051df5-8628-486f-a520-a11d1dae961c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']/ul/li[5]/div/div/div</value>
+      <webElementGuid>8637e859-bd50-4d4c-b350-c67888455055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/following::div[3]</value>
+      <webElementGuid>144fb1cf-69c6-47f4-8da5-55ccbc80d20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::div[4]</value>
+      <webElementGuid>b902a94a-da8e-46a4-9ab9-2dbbab42787b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Name'])[2]/preceding::div[1]</value>
+      <webElementGuid>39f3bfd1-0077-4190-b9a1-dc7adbdabdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Number'])[1]/preceding::div[2]</value>
+      <webElementGuid>048a1dca-ee3b-46fa-a200-f508806f484b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/div</value>
+      <webElementGuid>a35104f9-22f0-415c-aaf5-53090f720b89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

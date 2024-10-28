@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ECMSprint3/ECM_AR/Page_Account Receivable - Easy Claims Manager/iframe_This page requires frames in order t_99ba60",
+      "brokenLocator": "//div[@id\u003d\u0027b0a50a88-788c-46db-b0dd-c3ccaaae248e\u0027]/iframe",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Generate AR Letter\u0027])[1]/following::iframe[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ECMSprint3/ECM_AR/Page_Account Receivable - Easy Claims Manager/iframe_This page requires frames in order t_99ba60_neighbor.png"
+    }
+  ]
 }

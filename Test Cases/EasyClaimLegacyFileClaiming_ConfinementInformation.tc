@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLegacyFileClaiming_ConfinementInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94f03993-c95c-4a23-b6bb-6d84b382eb48</testCaseGuid>
+</TestCaseEntity>

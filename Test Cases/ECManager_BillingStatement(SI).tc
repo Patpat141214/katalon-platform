@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Service Invoice. Check the Prepared by, Registered name, and Signatory.</description>
+   <name>ECManager_BillingStatement(SI)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ff82af8-df81-4fa5-8151-d9f672252e8a</testCaseGuid>
+</TestCaseEntity>

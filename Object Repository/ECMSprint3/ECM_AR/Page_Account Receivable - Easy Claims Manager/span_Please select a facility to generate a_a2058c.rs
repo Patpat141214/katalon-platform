@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please select a facility to generate a_a2058c</name>
+   <tag></tag>
+   <elementGuidId>a2901b02-613d-4d10-9333-fcdfb803fd0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-notification-wrap > span.k-icon.k-i-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Hide&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fe32899-9fb9-4a44-8810-5b2a636419bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-close</value>
+      <webElementGuid>47439e13-9852-46a1-8271-64f97de5457a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Hide</value>
+      <webElementGuid>353750f8-c01b-47f6-8c07-80d942a8525f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit129 js&quot;]/body[@class=&quot;k-state-border-down&quot;]/div[@class=&quot;k-animation-container _12b0b7a0-220a-4c1a-8bfe-0507585d528a&quot;]/div[@class=&quot;k-widget k-popup k-notification k-notification-error k-notification-button k-notification-closable k-state-border-up&quot;]/div[@class=&quot;k-notification-wrap&quot;]/span[@class=&quot;k-icon k-i-close&quot;]</value>
+      <webElementGuid>959f54e3-dfc5-4158-8062-97968288645f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ECMSprint3/ECM_AR/Page_Account Receivable - Easy Claims Manager/iframe_This page requires frames in order t_99ba60</value>
+      <webElementGuid>e1b496f9-d7bc-4047-8ced-e724b0aafed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>3f4df060-4efe-4afa-8b56-3fe843cf1e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Hide']</value>
+      <webElementGuid>ede8a711-430a-4298-a7db-2857904fe7af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

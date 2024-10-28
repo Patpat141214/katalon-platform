@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ECManager_ControlPanel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17de0178-f2f0-4f16-b53d-e18d789c3192</testCaseGuid>
+</TestCaseEntity>

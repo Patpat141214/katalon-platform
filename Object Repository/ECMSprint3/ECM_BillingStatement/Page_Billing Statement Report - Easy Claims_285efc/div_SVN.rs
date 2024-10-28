@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SVN</name>
+   <tag></tag>
+   <elementGuidId>79f7766e-248b-4b90-b59a-e8d57d32b50e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.textBox1.s18- > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='₱ 10,610.00'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SVN&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0866bdce-0d1b-45a4-bfd6-4b34fd58fd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SVN</value>
+      <webElementGuid>6e44ec8d-f5fd-41c4-99df-cff2dc2b8ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;print-page&quot;]/div[@class=&quot;sheet page1&quot;]/div[@class=&quot;layer&quot;]/div[@class=&quot;textBox1 s18-&quot;]/div[1]</value>
+      <webElementGuid>6bee716e-4ce9-453a-8a3c-d3f228855f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ECMSprint3/ECM_BillingStatement/Page_Billing Statement Report - Easy Claims_285efc/iframe_Generating report_ReportsViewerReportFrame</value>
+      <webElementGuid>c5a498cf-b7eb-400f-b2b1-dd230ba14399</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₱ 10,610.00'])[1]/following::div[2]</value>
+      <webElementGuid>1660a395-1391-4934-a503-bb764094810e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincial Government of Samar'])[1]/following::div[8]</value>
+      <webElementGuid>23ee4ebf-7606-4d0f-82e3-60f8d0218f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APO'])[1]/preceding::div[1]</value>
+      <webElementGuid>b9ef6a1d-8471-4685-b286-9a0567b9f7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hon. Sharee Ann Tan - De Los Santos'])[1]/preceding::div[3]</value>
+      <webElementGuid>358fa819-ffac-4348-9ca6-93eb66081888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SVN']/parent::*</value>
+      <webElementGuid>58f4fff8-de16-4dee-a46f-b3dedc9d59fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[27]/div</value>
+      <webElementGuid>fd600654-6289-4a07-95ae-dd6debe9de01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SVN' or . = 'SVN')]</value>
+      <webElementGuid>6d8b5113-eae8-4595-8406-9b6b3178415b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select One_k-icon k-i-arrow-60-down</name>
+   <tag></tag>
+   <elementGuidId>93cd5e08-6b5e-4157-be27-e8b59a4474e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-60-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='patientdispositionValidation']/span/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d8f8fd1-5ca0-4002-84d8-fe9aa2bd009b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-down</value>
+      <webElementGuid>70210cf9-8765-43f7-b869-2e59146b864a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;patientdispositionValidation&quot;)/span[@class=&quot;k-widget k-dropdown dropdownlist-patientDisposition k-dropdown-lg&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
+      <webElementGuid>f89a0f51-16cf-489f-a96d-360be05b75e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='patientdispositionValidation']/span/span/span[2]/span</value>
+      <webElementGuid>950f1c6e-0d12-4325-a143-7a2c404a63ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]/span</value>
+      <webElementGuid>59260714-877b-4f2a-b9a9-b32d09788a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
