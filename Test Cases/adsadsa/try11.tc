@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52432ee6-7fc3-4ba3-92f4-c00a5bdf4f22</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>682a636c-0c28-4c78-9862-59b3a37c7e41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dr erlina\r\n'</defaultValue>
+      <description></description>
+      <id>682a636c-0c28-4c78-9862-59b3a37c7e41</id>
+      <masked>false</masked>
+      <name>hospital</name>
+   </variable>
+</TestCaseEntity>

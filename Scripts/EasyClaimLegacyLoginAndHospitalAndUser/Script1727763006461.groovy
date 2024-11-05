@@ -19,38 +19,37 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F')
+WebUI.navigateToUrl(NavigateLoginPage)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'), 'patche@admin')
+WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'), Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'), 
-    'nwr9I1qT+J0GbQ++JlYjHw==')
+WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'), Password)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'), Keys.chord(
         Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Connect - Easy Claims/span_Control Panel'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/ControlPanel')
+WebUI.navigateToUrl(NavigateControlPanel)
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_b1 l1 bf homes, exchange 05 PAGPARTIA_a9fde9'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Username_ConnectUserName'), 
-    'PRO4A_DEPTMCAH_JMC_01')
+    HospitalUser)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_ConnectPassword'), 
-    'Ov4DKeIvXLiGp9jFpjbR/w==')
+WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_ConnectPassword'), 
+    HospitalPass)
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_k-button k-primary'))
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/div_Hospital Code                          _698c28'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Hospital Email_Hospital.HospitalEmail'), 
-    'peter@gmail.com')
+    HospitalEmail)
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/div_Hospital Code                          _698c28'))
 
@@ -65,16 +64,16 @@ WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_Dr. Erlinda P. Tolentino Medical Clinic _78c317'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Username_Username'), 
-    'patcheadmin3')
+    CreatingUserAcc)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_Password'), 
-    'nwr9I1qT+J0GbQ++JlYjHw==')
+WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_Password'), 
+    CreatingPassword)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Confirm password_ConfirmPassword'), 
-    'nwr9I1qT+J0GbQ++JlYjHw==')
+WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Confirm password_ConfirmPassword'), 
+    CreatingConfirmPassword)
 
 WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Email_Email'), 
-    'sample@gmail.com')
+    CreatingUserEmail)
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Roles_k-input k-readonly'))
 
@@ -86,5 +85,4 @@ WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Log off'))
-
 

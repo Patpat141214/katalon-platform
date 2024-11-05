@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>94bc0f79-834d-4672-95e8-2fc676e235c1</webElementGuid>
+      <webElementGuid>32c99c3a-467e-4425-ad05-05a749876e42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>3534c380-28bd-4af1-b8dc-e545188436d3</webElementGuid>
+      <webElementGuid>728bb5fa-4451-45ec-a963-1de0f3e26ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-select</value>
-      <webElementGuid>c834a2be-85be-4e45-9954-147939d3b099</webElementGuid>
+      <webElementGuid>6d14c4ec-28a8-4726-9ee0-ff2623efe184</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a9927fa4-0531-4b80-8bef-f5938166e7ec</webElementGuid>
+      <webElementGuid>0859acf1-2a34-4a72-817f-d166cc44d4b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;membertypeValidation&quot;)/span[@class=&quot;k-widget k-dropdown dropdownlist dropdownlist-membershipType k-dropdown-md&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]</value>
-      <webElementGuid>c7a22f97-75a7-46d7-a9d6-def70954a49f</webElementGuid>
+      <webElementGuid>75e379a3-f4fa-4670-877a-6bca027b2f34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='membertypeValidation']/span/span/span[2]</value>
-      <webElementGuid>5b052450-7c28-49b2-998f-a3a926c4091b</webElementGuid>
+      <webElementGuid>033b0ed0-56b1-4008-8058-ab3b1027ea8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select One'])[1]/following::span[1]</value>
-      <webElementGuid>4f440f85-18d7-4b7c-bab3-99c4f60932a6</webElementGuid>
+      <webElementGuid>bfd9c55b-4a9b-4b7b-8bae-252133b096ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Type'])[1]/following::span[4]</value>
-      <webElementGuid>12a8a3de-768c-45fd-8bd1-d5ad24b4bc8d</webElementGuid>
+      <webElementGuid>4448771f-bf7c-411d-b3df-32475e28b4aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Philhealth Employer Number'])[1]/preceding::span[2]</value>
-      <webElementGuid>72d07150-4280-42eb-a947-7d3053aa1f09</webElementGuid>
+      <webElementGuid>c3047724-331c-4dee-b326-219168c7de26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Employer Name'])[1]/preceding::span[4]</value>
-      <webElementGuid>11048cc0-6f20-4b04-949e-07f33813bc11</webElementGuid>
+      <webElementGuid>0da9cc77-a818-4866-81ac-ff4442e9c2f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span[2]</value>
-      <webElementGuid>31a30557-b824-435f-87dd-9b581c954284</webElementGuid>
+      <webElementGuid>75ed1dfa-3e09-4706-81b0-b409f97df18e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

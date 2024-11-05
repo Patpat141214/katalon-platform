@@ -17,25 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F')
+WebUI.navigateToUrl(GlobalVariable.UrlLogin)
 
 WebUI.setText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Username_Username'), 
-    'patcheadmin3')
+    GlobalVariable.CreatedUser)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Password_Password'), 
-    'nwr9I1qT+J0GbQ++JlYjHw==')
+WebUI.setText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Password_Password'), 
+    GlobalVariable.CreatedPass)
 
 WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Password_submitBtn'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Connect?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F')
+WebUI.navigateToUrl(GlobalVariable.NavConnect)
 
 WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Username_Username'))
 
 WebUI.setText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Username_Username'), 
-    'PRO4A_DEPTMCAH_JMC_01')
+    GlobalVariable.ConnectUser)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Password_Password'), 
-    'Ov4DKeIvXLiGp9jFpjbR/w==')
+WebUI.setText(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Password_Password'), 
+    GlobalVariable.ConnectPass)
 
 WebUI.click(findTestObject('Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/input_Password_k-button k-primary'))
 

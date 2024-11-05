@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8ac9e52-14c0-495e-bfa0-10ba01a233d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e04f4911-8b77-4f1a-822c-8fca2c56b544</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'gmail@asd.com'</defaultValue>
+      <description></description>
+      <id>e04f4911-8b77-4f1a-822c-8fca2c56b544</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

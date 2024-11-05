@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e69c4cd-71c9-4650-b9e7-1c993b26e687</webElementGuid>
+      <webElementGuid>79de0150-9c40-40c6-840d-0dd5220d142c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-numeric maskedtextbox maskedtextbox-dash src-patient-info k-textbox</value>
-      <webElementGuid>56c35801-4c21-4942-98ed-308f62d18b9d</webElementGuid>
+      <webElementGuid>f9ba94e9-7313-48d1-af8d-52d17804c32f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>774c8028-fe15-4e85-92bb-0e729292e643</webElementGuid>
+      <webElementGuid>ebb1b957-0bcf-4c26-8304-964ad35bf93b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-val-maxlength</name>
       <type>Main</type>
       <value>The Member PIN field can only have a maximum of 12 character(s).</value>
-      <webElementGuid>109c9040-c54a-47c5-ae7d-d97f320e7403</webElementGuid>
+      <webElementGuid>1cc05e1b-bd89-496d-b491-2108bbf32081</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-val-maxlength-max</name>
       <type>Main</type>
       <value>12</value>
-      <webElementGuid>3d327717-51f3-411b-8ec3-f69eb7229274</webElementGuid>
+      <webElementGuid>234bac61-11f5-4606-874c-f0e94c4775fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Member PIN field is required.</value>
-      <webElementGuid>7ea37088-3517-4ae2-b01f-b9ce52d81ce8</webElementGuid>
+      <webElementGuid>60cfb4ea-ff25-4939-9e23-45f1bea45d11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>id</name>
       <type>Main</type>
       <value>MemberPIN</value>
-      <webElementGuid>0ae6bd86-cb24-4d35-8c9b-d85d34c58b2f</webElementGuid>
+      <webElementGuid>4212c790-8103-4bb2-8cc0-5e742cca0207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>name</name>
       <type>Main</type>
       <value>MemberPIN</value>
-      <webElementGuid>a84ccf6f-341d-4d98-889f-f21da31633a5</webElementGuid>
+      <webElementGuid>192e579c-88e7-45de-b69f-f0ef3caeaf4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>maskedtextbox</value>
-      <webElementGuid>638b6abd-f76c-4527-b089-d8dd91be9b66</webElementGuid>
+      <webElementGuid>0e9e8ec0-1909-4073-94fe-c25a137c1b04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>251883fb-c37f-4d32-9d26-f74464278ec2</webElementGuid>
+      <webElementGuid>6be85f81-ed72-47d0-8bf1-d05cdd99f46b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;MemberPIN&quot;)</value>
-      <webElementGuid>41cd4865-8c03-40fd-8605-489d9ed9f1e2</webElementGuid>
+      <webElementGuid>318750c4-b1f1-4d54-9d47-7ad80b4c9150</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='MemberPIN']</value>
-      <webElementGuid>f7910f06-e753-4adc-8a36-f4bde5f69895</webElementGuid>
+      <webElementGuid>904526af-bdba-4489-8c2b-5b917d50b459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pinValidation']/span/input</value>
-      <webElementGuid>9cfae21f-3bcb-4d5f-9003-b2962871c3f5</webElementGuid>
+      <webElementGuid>cfc8c853-cdab-4c4f-86e6-7d1589ebde47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[4]/div/span/input</value>
-      <webElementGuid>fee50c96-0186-478b-b58f-15fe82746629</webElementGuid>
+      <webElementGuid>fef8c924-38bc-43a2-a759-7f98f1db8214</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'MemberPIN' and @name = 'MemberPIN']</value>
-      <webElementGuid>e351c52e-8aa5-4ede-a0f6-ec707e116bd8</webElementGuid>
+      <webElementGuid>832c9e95-2b64-46e5-8814-6780f9f62252</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

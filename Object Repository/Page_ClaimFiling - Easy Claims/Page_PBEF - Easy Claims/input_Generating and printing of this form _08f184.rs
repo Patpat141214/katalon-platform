@@ -6,12 +6,12 @@
    <elementGuidId>458ce4e1-4363-4ba1-a17a-1af509851150</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#exportPDFBtn</value>
+         <key>XPATH</key>
+         <value>//input[@id='exportPDFBtn']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//p/input[2]</value>
+         <key>CSS</key>
+         <value>#exportPDFBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>26d24ac3-991c-4731-afe6-ae699c0dbd6c</webElementGuid>
+      <webElementGuid>883314ed-61dc-4297-adb1-b8c3e56c4d56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>exportPDFBtn</value>
-      <webElementGuid>623f0eb6-7737-4fc1-8fb5-f03697583c01</webElementGuid>
+      <webElementGuid>0cbba6b5-3708-43a4-ae33-32156b7cc2d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0d308666-0d35-4da9-8b44-5aadc3a196ba</webElementGuid>
+      <webElementGuid>b450407f-8840-4cf3-8429-481b2ecc1e5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-secondary</value>
-      <webElementGuid>c21f3b5f-af5d-46e2-b340-5b7e58667b91</webElementGuid>
+      <webElementGuid>965500fc-aa59-48d3-8776-8f93c3d7e8de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Export as PDF</value>
-      <webElementGuid>a20fccd7-00f7-4d43-876a-c06d779def08</webElementGuid>
+      <webElementGuid>2dac8cf9-2558-4d19-9395-3067af61d1b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>exportPBEF()</value>
-      <webElementGuid>a31d2c2d-7cf0-4d4e-b595-cab73fd12251</webElementGuid>
+      <webElementGuid>1fff2ff6-e616-4ab2-9b26-e2579a8813c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;exportPDFBtn&quot;)</value>
-      <webElementGuid>f517f750-9e3c-440d-bfc0-a7fb96dcaaff</webElementGuid>
+      <webElementGuid>60dd281e-dc94-4c07-832d-ae3ae2829cad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='exportPDFBtn']</value>
-      <webElementGuid>958bb6fc-510d-45c3-aa3c-101bd6c9246e</webElementGuid>
+      <webElementGuid>8ffae979-a1d6-458f-8ea1-075cbcf2c1fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/input[2]</value>
-      <webElementGuid>e404efc4-0c86-4d2d-b997-be03c67a6c92</webElementGuid>
+      <webElementGuid>1d48a681-0313-48c9-b273-3424fe81f333</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'exportPDFBtn' and @type = 'button']</value>
-      <webElementGuid>19b3ef64-d6b9-41de-8951-f616ad88aaf5</webElementGuid>
+      <webElementGuid>6786c86d-e39e-4539-be30-65efc68a96d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

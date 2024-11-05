@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>913b6def-e634-4948-9274-997ff7010f59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0b31767-e2fa-4416-9135-b83e7c921d7b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'123123123'</defaultValue>
+      <description></description>
+      <id>f0b31767-e2fa-4416-9135-b83e7c921d7b</id>
+      <masked>false</masked>
+      <name>ConnectPass</name>
+   </variable>
+</TestCaseEntity>

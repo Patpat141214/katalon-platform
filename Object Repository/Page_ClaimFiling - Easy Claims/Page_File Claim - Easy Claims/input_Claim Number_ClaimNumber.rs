@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5f21503c-148c-456a-8886-5cbfd008cdf4</webElementGuid>
+      <webElementGuid>eac8f670-13ef-468b-a4ee-b1036275fd20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-alphanumeric input-sanitized k-input</value>
-      <webElementGuid>80eddcd8-7997-4fa6-9b15-b5a4463d57b1</webElementGuid>
+      <webElementGuid>807a80c5-02f0-48d8-b81a-4676fb6f7b3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>73fe7a8e-933a-4eba-b895-73e699a9706b</webElementGuid>
+      <webElementGuid>9a83a893-034d-46e1-b6e4-9055d7fc6981</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-val-maxlength</name>
       <type>Main</type>
       <value>The Claim Number field can only have a maximum of 12 character(s).</value>
-      <webElementGuid>a28d5768-1d9f-4c8f-96c8-2c61f33660ec</webElementGuid>
+      <webElementGuid>018186ee-2f53-4d4e-8685-26f95379b21c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-val-maxlength-max</name>
       <type>Main</type>
       <value>12</value>
-      <webElementGuid>8ee81af3-72c0-48b9-8583-8ffe722c2d3b</webElementGuid>
+      <webElementGuid>e10bb810-1e67-40d3-b445-879888f5c8f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ClaimNumber</value>
-      <webElementGuid>1bc1e5bf-a9ee-465b-9f34-07c59ea810c1</webElementGuid>
+      <webElementGuid>09c03207-3fdd-4aec-b55a-14e62c10dba6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ClaimNumber</value>
-      <webElementGuid>4945b3c0-48d8-47f3-b2b9-1a1d7fdcde18</webElementGuid>
+      <webElementGuid>2247a8a0-14c5-4c82-8154-7a5cb6c02cda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>4b741891-1bc4-43f9-8f96-73f6d869b4a9</webElementGuid>
+      <webElementGuid>1f6f8e55-e0ff-4728-9ab5-70abfb1fb088</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0c3ae040-fe0a-4ae1-99a4-075254e69a05</webElementGuid>
+      <webElementGuid>cab28d24-cca7-4f93-a7c8-a6bbe920657e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>507eadb3-8acf-44a6-853b-27932864a078</webElementGuid>
+      <webElementGuid>28377fad-b978-42cf-929c-7ee486e64015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ClaimNumber&quot;)</value>
-      <webElementGuid>ff92a472-6b5a-4b3d-97fd-302ead6fdb12</webElementGuid>
+      <webElementGuid>75b7902e-9f64-48e9-95c9-a9964ee91a5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ClaimNumber']</value>
-      <webElementGuid>9027ee9d-8d09-4182-9b12-c8b54ef15bd6</webElementGuid>
+      <webElementGuid>6742f96c-28eb-4a55-8b7c-6c4362c99244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='claim-identity']/div[3]/div/span/input</value>
-      <webElementGuid>b32f905d-345c-443b-a9fb-8565d4f9a461</webElementGuid>
+      <webElementGuid>9efe6719-5822-44aa-ba17-fc45f8bbfb89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[4]/div[3]/div/span/input</value>
-      <webElementGuid>e0ab3675-7da0-46c7-9db4-f22692cb1726</webElementGuid>
+      <webElementGuid>502f13ff-cbcf-4a57-898a-058ed42ca84a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'ClaimNumber' and @name = 'ClaimNumber']</value>
-      <webElementGuid>7fcfc0db-5966-4213-8119-4b6b89456a18</webElementGuid>
+      <webElementGuid>054e4de2-0985-4054-baba-531a888edbff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

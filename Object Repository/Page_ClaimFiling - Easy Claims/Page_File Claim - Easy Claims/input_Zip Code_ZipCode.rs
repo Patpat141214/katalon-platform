@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9b2de0a7-fb77-4d77-9005-80ff6e54cc82</webElementGuid>
+      <webElementGuid>be20a7f4-749f-4d37-afc0-626acee32501</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>maskedtextbox input-numeric k-textbox-sm k-textbox</value>
-      <webElementGuid>0ee7987b-557e-4774-8ff8-92e0fee20835</webElementGuid>
+      <webElementGuid>bedd6c65-94ff-4127-8627-62ca7a834534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f6896cd5-805c-4cdc-9776-48713be33c76</webElementGuid>
+      <webElementGuid>3e607ead-7af6-4380-8424-e92a185f1550</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-val-maxlength</name>
       <type>Main</type>
       <value>The Zip Code field can only have a maximum of 4 character(s).</value>
-      <webElementGuid>b270553a-ca24-4a26-8ae0-416c6bac3b80</webElementGuid>
+      <webElementGuid>b87da68f-2405-470d-b93b-e08334ad40c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-val-maxlength-max</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>0a0854dc-0962-47b7-9b5b-3f0ceafcfe18</webElementGuid>
+      <webElementGuid>9cfb3946-7a21-484d-b585-02fb392b922f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Zip Code field is required.</value>
-      <webElementGuid>1dd9fa20-6905-43c6-87db-2f22aaf7c088</webElementGuid>
+      <webElementGuid>ec24a03e-b10f-49ad-9e42-cdde8e5b7a50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ZipCode</value>
-      <webElementGuid>0a5b3728-c14c-44d8-b252-a43913c5b9c6</webElementGuid>
+      <webElementGuid>0f176198-f87c-45be-a7c3-5467520f7d00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ZipCode</value>
-      <webElementGuid>3f3f8913-6a2a-4a37-9d5f-2a4a27601e34</webElementGuid>
+      <webElementGuid>260fb83b-0b52-4614-aa11-cc61997c39bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>maskedtextbox</value>
-      <webElementGuid>e6486fba-0d9d-46da-a674-14e6e96d8377</webElementGuid>
+      <webElementGuid>177bc418-9f3a-40e8-b73f-9d46a850d157</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>65a73b60-380c-41c5-b2d2-76b433895719</webElementGuid>
+      <webElementGuid>8a23925a-d9d6-4145-9f21-926bb6c65aa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ZipCode&quot;)</value>
-      <webElementGuid>72bfd5b5-c5a6-4fa1-ba83-32352eeb2b55</webElementGuid>
+      <webElementGuid>822c7a23-ae87-458e-b352-693009ce39b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ZipCode']</value>
-      <webElementGuid>a1d4ee6c-3561-4803-bda0-26e7fc3478a8</webElementGuid>
+      <webElementGuid>34833efc-b3ce-45fc-a5c7-5aab3e191d18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='zipcodeValidation']/span/input</value>
-      <webElementGuid>e299fb37-9e36-4e6e-a925-531405b9b296</webElementGuid>
+      <webElementGuid>8e67ea63-486e-4a3d-8050-e27afe26cffd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/span/input</value>
-      <webElementGuid>ef13a82f-09e7-4a2e-aed0-7132ed9b6a54</webElementGuid>
+      <webElementGuid>cb7ef151-5c02-4d29-901b-ce2627c345ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'ZipCode' and @name = 'ZipCode']</value>
-      <webElementGuid>1491d1ae-a690-48ea-ab75-eae4cf4da1aa</webElementGuid>
+      <webElementGuid>6876fe81-04a4-4537-ad8b-c13055ac698b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

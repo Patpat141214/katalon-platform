@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>67b024fb-a426-4433-a65f-e074d5323250</webElementGuid>
+      <webElementGuid>e916331a-05e3-4999-b0b0-d122c3d45a71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-radio src-patient-info patientSex</value>
-      <webElementGuid>8568ac3b-7b67-40a0-a2ba-a61ea463d39b</webElementGuid>
+      <webElementGuid>e8668c4e-3a32-4b44-ac3d-217e570c0d94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5e5c047c-3546-4bb1-841d-5bfb76127f5f</webElementGuid>
+      <webElementGuid>e1b184e1-85ef-4378-9ce8-de86ffa3a2f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>MemberGender_F</value>
-      <webElementGuid>69bb550b-c16b-46f8-9eca-ac2adda247d5</webElementGuid>
+      <webElementGuid>7a50f016-2e10-412e-ad2f-e39e56b34a4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>MemberGender</value>
-      <webElementGuid>f2928b23-d9b4-4c4f-a8ac-78a79f932fc6</webElementGuid>
+      <webElementGuid>3a793268-55ca-4164-b991-3d4714a4eb75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>10830200-f543-4ad4-9f09-ce50c0960053</webElementGuid>
+      <webElementGuid>9fe8a197-4adb-4d44-a6da-11f54636877a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>value</name>
       <type>Main</type>
       <value>F</value>
-      <webElementGuid>56338af4-d558-4e11-8927-197192005f45</webElementGuid>
+      <webElementGuid>ce6d2076-a846-4d62-828e-0b78244c1273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;MemberGender_F&quot;)</value>
-      <webElementGuid>ff2a77e3-58b7-4860-a109-c4cc462ecbb7</webElementGuid>
+      <webElementGuid>b2fc91c0-1f7f-45bc-ba4e-7135b424cf74</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='MemberGender_F']</value>
-      <webElementGuid>1a6efc10-7606-4e57-890a-807f8d466cf7</webElementGuid>
+      <webElementGuid>07ac870b-b4fa-4657-a85f-8a4fdd0e9e5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='genderValidation']/input[3]</value>
-      <webElementGuid>22e945f6-cfe2-4ddf-b9f4-62e8ff38d40b</webElementGuid>
+      <webElementGuid>7aa87665-b09a-466e-8b3e-437c59eab00d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input[3]</value>
-      <webElementGuid>582e1803-2884-436e-9007-13c70fca5d0f</webElementGuid>
+      <webElementGuid>77c84fa7-f8a8-4787-8ad6-fcbd53b1b638</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'MemberGender_F' and @name = 'MemberGender' and @type = 'radio']</value>
-      <webElementGuid>87718c32-6c90-4da5-bede-df44924ba56d</webElementGuid>
+      <webElementGuid>caa179e6-19bd-4406-85a8-81d491f88b20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

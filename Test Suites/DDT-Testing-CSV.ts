@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT-Testing-CSV</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>bbd3edb1-c98f-4994-a4ed-2f16c0e31bcb</testSuiteGuid>
+   <testCaseLink>
+      <guid>3569f202-b7de-43e0-b686-887e96fb8eb1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'patche@admin'</defaultValue>
+         <description></description>
+         <id>34a2946d-edce-4a4c-939d-364c2d9fe04f</id>
+         <masked>false</masked>
+         <name>Username</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Data-Driven Testing/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d32da632-5f67-4950-bd73-5b7a09048fd9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/5 Accounts CSV</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d32da632-5f67-4950-bd73-5b7a09048fd9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>﻿Username</value>
+         <variableId>34a2946d-edce-4a4c-939d-364c2d9fe04f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d32da632-5f67-4950-bd73-5b7a09048fd9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>917a6d31-7363-46a7-8322-1539870f9eee</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

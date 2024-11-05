@@ -23,12 +23,12 @@ WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_Home - Easy Claims/a_File Claim'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/Create')
+WebUI.navigateToUrl(GlobalVariable.NavClaimFiling)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_PIN_MemberPIN'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_PIN_MemberPIN'), 
-    '05-025405092-7')
+    GlobalVariable.pPIN)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/div_MemberGender_DefaultMaleFemale'))
 
@@ -39,12 +39,12 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Male_MemberGender'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/textarea_Mailing Address_MailingAddress'), 
-    'mail@gmail.com')
+    GlobalVariable.pMailingAdd)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Zip Code_ZipCode'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Zip Code_ZipCode'), 
-    '1128')
+    GlobalVariable.pZipCode)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/span_Select One_k-select'))
 
@@ -55,30 +55,28 @@ WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Pag
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/li_Member (Self)'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Admission Date and Time_AdmissionDateTime'), 
-    '9/23/2024 12:00 AM')
+    GlobalVariable.pAddmissionD)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Discharge Date and Time_DischargeDateTime'), 
-    '9/24/2024 11:00 PM')
+    GlobalVariable.pDischargeD)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Save for E-Claims_IsFinal'))
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'), 
-    'DRGTRANS10')
+    GlobalVariable.pTransNo)
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Claim Number_ClaimNumber'), 
-    'DRGCLAIMS10')
+    GlobalVariable.pClaimsNo)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21'))
+
+WebUI.navigateToUrl(GlobalVariable.pPBEF)
 
 WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _08f184'))
 
-WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _e07ca8'))
-
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/Eligibility?forEditing=False')
-
-WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21'))
+WebUI.click(findTestObject('Object Repository/Page_ClaimFiling - Easy Claims/Page_PBEF - Easy Claims/input_Generating and printing of this form _60f11f'))
 

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DDT-Testing" time="17.287" tests="5" failures="0" errors="0">
+   <testsuite name="DDT-Testing" tests="5" failures="0" errors="0" time="17.287" skipped="0" timestamp="31-10-2024T13:33:18" hostname="pfeniza - ENIC-KSANTOS.eurogroup.local" id="Test Suites/DDT-Testing">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\pfeniza\\git\\katalon-platform\\Reports\\20241031_133311\\DDT-Testing\\20241031_133311"/>
+         <property name="logFiles" value="C:\\Users\\pfeniza\\git\\katalon-platform\\Reports\\20241031_133311\\DDT-Testing\\20241031_133311\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="pfeniza - ENIC-KSANTOS.eurogroup.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 130.0.0.0"/>
+         <property name="hostAddress" value="10.81.234.3"/>
+         <property name="sessionId" value="8fb20a62457508fb5e2f5cf90c773451"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Data-Driven Testing/Login" time="5.017" classname="Test Cases/Data-Driven Testing/Login" status="PASSED">
+         <system-out><![CDATA[31-10-2024T13:33:18 - [TEST_CASE][PASSED] - Test Cases/Data-Driven Testing/Login: Test Cases/Data-Driven Testing/Login
+
+31-10-2024T13:33:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-10-2024T13:33:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+31-10-2024T13:33:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-10-2024T13:33:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-10-2024T13:33:20 - [TEST_STEP][PASSED] - navigateToUrl("http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F"): Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:21 - [MESSAGE][PASSED] - Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+31-10-2024T13:33:21 - [MESSAGE][PASSED] - Current window maximized
+
+31-10-2024T13:33:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username"), Username): Text 'patche@admin' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:22 - [MESSAGE][PASSED] - Text 'patche@admin' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Password): Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:22 - [MESSAGE][PASSED] - Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:22 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:23 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/Login" time="3.082" classname="Test Cases/Data-Driven Testing/Login" status="PASSED">
+         <system-out><![CDATA[31-10-2024T13:33:23 - [TEST_CASE][PASSED] - Test Cases/Data-Driven Testing/Login: Test Cases/Data-Driven Testing/Login
+
+31-10-2024T13:33:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-10-2024T13:33:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+31-10-2024T13:33:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+31-10-2024T13:33:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-10-2024T13:33:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-10-2024T13:33:24 - [TEST_STEP][PASSED] - navigateToUrl("http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F"): Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:24 - [MESSAGE][PASSED] - Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+31-10-2024T13:33:24 - [MESSAGE][PASSED] - Current window maximized
+
+31-10-2024T13:33:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username"), Username): Text 'patche@admin1' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:25 - [MESSAGE][PASSED] - Text 'patche@admin1' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Password): Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:26 - [MESSAGE][PASSED] - Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:26 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:26 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/Login" time="2.958" classname="Test Cases/Data-Driven Testing/Login" status="PASSED">
+         <system-out><![CDATA[31-10-2024T13:33:26 - [TEST_CASE][PASSED] - Test Cases/Data-Driven Testing/Login: Test Cases/Data-Driven Testing/Login
+
+31-10-2024T13:33:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-10-2024T13:33:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+31-10-2024T13:33:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+31-10-2024T13:33:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-10-2024T13:33:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-10-2024T13:33:27 - [TEST_STEP][PASSED] - navigateToUrl("http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F"): Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:27 - [MESSAGE][PASSED] - Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+31-10-2024T13:33:27 - [MESSAGE][PASSED] - Current window maximized
+
+31-10-2024T13:33:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username"), Username): Text 'patche@admin2' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:28 - [MESSAGE][PASSED] - Text 'patche@admin2' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Password): Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:29 - [MESSAGE][PASSED] - Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:29 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:29 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/Login" time="2.979" classname="Test Cases/Data-Driven Testing/Login" status="PASSED">
+         <system-out><![CDATA[31-10-2024T13:33:29 - [TEST_CASE][PASSED] - Test Cases/Data-Driven Testing/Login: Test Cases/Data-Driven Testing/Login
+
+31-10-2024T13:33:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-10-2024T13:33:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+31-10-2024T13:33:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+31-10-2024T13:33:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-10-2024T13:33:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-10-2024T13:33:30 - [TEST_STEP][PASSED] - navigateToUrl("http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F"): Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:30 - [MESSAGE][PASSED] - Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+31-10-2024T13:33:30 - [MESSAGE][PASSED] - Current window maximized
+
+31-10-2024T13:33:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username"), Username): Text 'patche@admin3' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:31 - [MESSAGE][PASSED] - Text 'patche@admin3' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Password): Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:32 - [MESSAGE][PASSED] - Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:32 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:32 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/Login" time="2.931" classname="Test Cases/Data-Driven Testing/Login" status="PASSED">
+         <system-out><![CDATA[31-10-2024T13:33:32 - [TEST_CASE][PASSED] - Test Cases/Data-Driven Testing/Login: Test Cases/Data-Driven Testing/Login
+
+31-10-2024T13:33:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-10-2024T13:33:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+31-10-2024T13:33:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+31-10-2024T13:33:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-10-2024T13:33:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-10-2024T13:33:33 - [TEST_STEP][PASSED] - navigateToUrl("http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F"): Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:33 - [MESSAGE][PASSED] - Navigate to 'http://172.30.1.26/OPSUI.EasyClaims.Legacy/Account/Login?ReturnUrl=%2FOPSUI.EasyClaims.Legacy%2F' successfully
+
+31-10-2024T13:33:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+31-10-2024T13:33:33 - [MESSAGE][PASSED] - Current window maximized
+
+31-10-2024T13:33:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username"), Username): Text 'patche@admin4' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:34 - [MESSAGE][PASSED] - Text 'patche@admin4' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username'
+
+31-10-2024T13:33:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Password): Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:35 - [MESSAGE][PASSED] - Text '123123123' is set on object 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:35 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password'
+
+31-10-2024T13:33:35 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-10-2024T13:33:18 - [TEST_SUITE][PASSED] - DDT-Testing: Test Cases/Data-Driven Testing/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

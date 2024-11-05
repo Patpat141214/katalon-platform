@@ -32,17 +32,17 @@ WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_C
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/li_Private'))
 
 WebUI.setText(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/textarea_Admission Diagnosis_AdmissionDiagnosis'), 
-    'ADMISSION')
+    GlobalVariable.pAdmissionDiagnosis)
 
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Please add at least one (1) Discharge_bd5a63'))
 
 WebUI.setText(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/textarea_Discharge Diagnosis_DischargeDiagnosis'), 
-    'DISCHARGE')
+    GlobalVariable.pDischargeDiagnosis)
 
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/a_Add ICD Code'))
 
 WebUI.setText(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_ICD Code_ICDCode_input'), 
-    'P91.3')
+    GlobalVariable.pIcdCode)
 
 WebUI.sendKeys(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_ICD Code_ICDCode_input'), 
     Keys.chord(Keys.ENTER))
@@ -52,24 +52,25 @@ WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_C
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/a_Add RVS Code'))
 
 WebUI.setText(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_RVS Code_RVSCode_input'), 
-    'MCP01')
+    GlobalVariable.pRvsCode)
 
 WebUI.sendKeys(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_RVS Code_RVSCode_input'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/textarea_Related Procedure_RelatedProcedure'), 
-    'RELATED')
+    GlobalVariable.pRelatedProc)
 
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Select One_k-icon k-i-arrow-60-down_1_2'))
 
-WebUI.delay(1) 
+WebUI.delay(1)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Right'), 2)
+WebUI.waitForElementVisible(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Right'), 
+    2)
 
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Right'))
 
 WebUI.sendKeys(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Procedure Date_ProcedureDate'), 
-    '09/24/2024')
+    GlobalVariable.pProcedureDate)
 
 WebUI.sendKeys(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Procedure Date_ProcedureDate'), 
     Keys.chord(Keys.ENTER))
@@ -80,5 +81,5 @@ WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_C
 
 WebUI.click(findTestObject('Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Right Eye IOL Expiry Date_SaveConfine_8606f5'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/FeesChargesDetails?forEditing=True')
+WebUI.navigateToUrl(GlobalVariable.NavFeesAndCharges)
 

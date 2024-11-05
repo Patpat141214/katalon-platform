@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT-Testing-Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>bf8b6e66-779d-4917-9744-df7052405287</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6157ed3-184a-4456-a681-5d72431d6920</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data-Driven Testing/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e6a36ffc-f029-471d-b8a4-177558de1ec8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/5 Accounts Excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e6a36ffc-f029-471d-b8a4-177558de1ec8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>34a2946d-edce-4a4c-939d-364c2d9fe04f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e6a36ffc-f029-471d-b8a4-177558de1ec8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>917a6d31-7363-46a7-8322-1539870f9eee</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

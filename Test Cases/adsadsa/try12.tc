@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c01ecbeb-fd1e-441b-bf77-0012cd1fdec1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0ba1a0e-aa91-46da-946b-1579103101ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'asdasdsadsa'</defaultValue>
+      <description></description>
+      <id>c0ba1a0e-aa91-46da-946b-1579103101ae</id>
+      <masked>false</masked>
+      <name>Connect</name>
+   </variable>
+</TestCaseEntity>

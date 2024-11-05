@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5dbb0d57-4c2c-4a67-8f66-f5bc283913fc</webElementGuid>
+      <webElementGuid>65c53327-f786-4c91-b3eb-19a3de4ba773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>backBtn</value>
-      <webElementGuid>bd5a6b5d-8157-470e-8578-d49aaaa70cae</webElementGuid>
+      <webElementGuid>4da3f184-4648-421f-a304-72d91cf04d2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f53b5f26-bef6-4d3a-be6b-31a84594b5b6</webElementGuid>
+      <webElementGuid>3cffd9df-7598-4235-b2f6-e580cc715f6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button</value>
-      <webElementGuid>2a2783d6-a999-4763-93c8-92b938cc5fca</webElementGuid>
+      <webElementGuid>d47a6b65-fa4c-4782-8a2e-2ca66ceb8171</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Back</value>
-      <webElementGuid>4507f583-392c-4e82-880e-35f56db86326</webElementGuid>
+      <webElementGuid>bc6dfddc-d757-44a9-b59f-6d918280b3eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>window.location.href='/Legacy_PrevBugv4/Claim/Create?forEditing=False'</value>
-      <webElementGuid>57a70acb-1fb0-475a-a05a-39fb8b37177a</webElementGuid>
+      <webElementGuid>51904e6a-8398-4235-a0ce-91615685d08b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;backBtn&quot;)</value>
-      <webElementGuid>40d4a69a-e9a1-4a72-b3fe-0c6aee8b48f1</webElementGuid>
+      <webElementGuid>1b83b77d-80f5-4ce8-a117-1d8d05c22624</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='backBtn']</value>
-      <webElementGuid>1c5aab75-9568-48fc-a174-2b73b1a350ae</webElementGuid>
+      <webElementGuid>bc26f251-2bd1-4987-96f6-a1a1a3f09694</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>e76bfea2-aa13-4247-80d8-c2fb5675b522</webElementGuid>
+      <webElementGuid>611fdd90-f87f-4079-a4f7-2999240856dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'backBtn' and @type = 'button']</value>
-      <webElementGuid>866eac3e-d6c0-4b7e-9f8e-3840e9fc5541</webElementGuid>
+      <webElementGuid>d1326ba0-8cf3-4688-80d2-3f9fd52e2f2c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

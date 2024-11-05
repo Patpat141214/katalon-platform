@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>try1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1940f665-d2ae-4c63-ad1a-1f5f486bd718</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f11c952d-38ed-4e1e-998d-b5a7ec6e49c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'123123123'</defaultValue>
+      <description></description>
+      <id>f11c952d-38ed-4e1e-998d-b5a7ec6e49c5</id>
+      <masked>false</masked>
+      <name>Pass</name>
+   </variable>
+</TestCaseEntity>

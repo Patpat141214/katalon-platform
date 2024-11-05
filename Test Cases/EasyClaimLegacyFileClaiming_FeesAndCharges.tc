@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLegacyFileClaiming_FeesAndCharges</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df32b25a-2364-4865-91d0-10225929b91e</testCaseGuid>
+</TestCaseEntity>

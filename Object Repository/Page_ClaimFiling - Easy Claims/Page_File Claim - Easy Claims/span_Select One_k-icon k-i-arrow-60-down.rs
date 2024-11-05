@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7b0a8167-077c-440e-9c1e-edcc0d722507</webElementGuid>
+      <webElementGuid>770caa77-e52d-4ac8-8d80-1bc5623cf3a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-icon k-i-arrow-60-down</value>
-      <webElementGuid>2f8d6396-2db3-4a77-bac3-c574d9661ef2</webElementGuid>
+      <webElementGuid>322ba26b-fcb3-4979-8117-c931e627d6cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;patientValidation&quot;)/span[@class=&quot;k-widget k-dropdown dropdownlist dropdownlist-patientIs&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
-      <webElementGuid>3784ae44-eee8-4579-8409-febe67e7b3fe</webElementGuid>
+      <webElementGuid>15201b06-22ac-4c92-b926-8e830a2c26f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='patientValidation']/span/span/span[2]/span</value>
-      <webElementGuid>205eadde-c029-4bbb-9ce9-9d28c0d16742</webElementGuid>
+      <webElementGuid>e0c81a69-1bcc-4f47-b4d8-34cb505cd03b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/span/span/span[2]/span</value>
-      <webElementGuid>c090fcac-c9c1-4599-acdc-2744da7b8bb9</webElementGuid>
+      <webElementGuid>f00cca98-f47b-4598-b0f2-99840adee12a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

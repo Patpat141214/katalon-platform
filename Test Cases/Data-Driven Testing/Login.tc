@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e26327b7-89a7-4313-aace-512372bdecb6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34a2946d-edce-4a4c-939d-364c2d9fe04f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>917a6d31-7363-46a7-8322-1539870f9eee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'patche@admin'</defaultValue>
+      <description></description>
+      <id>34a2946d-edce-4a4c-939d-364c2d9fe04f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123123123'</defaultValue>
+      <description></description>
+      <id>917a6d31-7363-46a7-8322-1539870f9eee</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
