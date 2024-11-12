@@ -94,14 +94,14 @@
       <name>NavigateLoginPage</name>
    </variable>
    <variable>
-      <defaultValue>'PRO4A_DEPTMCAH_JMC_01'</defaultValue>
+      <defaultValue>'PRO01_BDH_IJCM_01'</defaultValue>
       <description></description>
       <id>3be8999b-1b53-4d99-90a8-47d9c3cbf9bf</id>
       <masked>false</masked>
       <name>HospitalUser</name>
    </variable>
    <variable>
-      <defaultValue>'deptmcah_JMC@01'</defaultValue>
+      <defaultValue>'Passw0rdxxx123'</defaultValue>
       <description></description>
       <id>9889dae9-3e67-4fe2-a8ff-0324b32aa485</id>
       <masked>false</masked>

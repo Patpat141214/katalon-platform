@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLoginCreatedAccountAndConnect(OfflineFilling)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84fac025-cd17-4f05-a951-a9383c71d495</testCaseGuid>
+</TestCaseEntity>

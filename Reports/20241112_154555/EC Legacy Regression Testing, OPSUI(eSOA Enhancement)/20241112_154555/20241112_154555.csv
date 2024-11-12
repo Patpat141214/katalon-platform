@@ -1,0 +1,107 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"EC Legacy Regression Testing, OPSUI(eSOA Enhancement)",Chrome 130.0.0.0,,,12-11-2024 15:46:08,12-11-2024 15:47:18,1m - 9.910s,PASSED
+,,,,,,,
+Test Cases/EasyClaimLegacyLoginAndHospitalAndUser,Chrome 130.0.0.0,,,12-11-2024 15:46:08,12-11-2024 15:46:39,30.167s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,12-11-2024 15:46:09,12-11-2024 15:46:10,1.445s,PASSED
+navigateToUrl(NavigateLoginPage),Chrome 130.0.0.0,,,12-11-2024 15:46:10,12-11-2024 15:46:11,0.833s,PASSED
+maximizeWindow(),Chrome 130.0.0.0,,,12-11-2024 15:46:11,12-11-2024 15:46:11,0.053s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/input_Username_Username""), Username)",Chrome 130.0.0.0,,,12-11-2024 15:46:11,12-11-2024 15:46:12,0.760s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password""), Password)",Chrome 130.0.0.0,,,12-11-2024 15:46:12,12-11-2024 15:46:13,0.535s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/input_Password_Password""), Keys.chord(ENTER))",Chrome 130.0.0.0,,,12-11-2024 15:46:13,12-11-2024 15:46:13,0.488s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Connect - Easy Claims/span_Control Panel""))",Chrome 130.0.0.0,,,12-11-2024 15:46:13,12-11-2024 15:46:16,2.939s,PASSED
+delay(3),Chrome 130.0.0.0,,,12-11-2024 15:46:16,12-11-2024 15:46:19,3.037s,PASSED
+navigateToUrl(NavigateControlPanel),Chrome 130.0.0.0,,,12-11-2024 15:46:19,12-11-2024 15:46:19,0.333s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)""))",Chrome 130.0.0.0,,,12-11-2024 15:46:19,12-11-2024 15:46:21,1.575s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_b1 l1 bf homes, exchange 05 PAGPARTIA_a9fde9""))",Chrome 130.0.0.0,,,12-11-2024 15:46:21,12-11-2024 15:46:21,0.293s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Username_ConnectUserName""), HospitalUser)",Chrome 130.0.0.0,,,12-11-2024 15:46:21,12-11-2024 15:46:22,0.874s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_ConnectPassword""), HospitalPass)",Chrome 130.0.0.0,,,12-11-2024 15:46:22,12-11-2024 15:46:23,0.539s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_k-button k-primary""))",Chrome 130.0.0.0,,,12-11-2024 15:46:23,12-11-2024 15:46:23,0.317s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/div_Hospital Code                          _698c28""))",Chrome 130.0.0.0,,,12-11-2024 15:46:23,12-11-2024 15:46:29,6.423s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Hospital Email_Hospital.HospitalEmail""), HospitalEmail)",Chrome 130.0.0.0,,,12-11-2024 15:46:29,12-11-2024 15:46:30,0.549s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/div_Hospital Code                          _698c28""))",Chrome 130.0.0.0,,,12-11-2024 15:46:30,12-11-2024 15:46:30,0.256s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li""))",Chrome 130.0.0.0,,,12-11-2024 15:46:30,12-11-2024 15:46:31,0.306s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_User Management""))",Chrome 130.0.0.0,,,12-11-2024 15:46:31,12-11-2024 15:46:31,0.715s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_samplegmail.com_addUserBtn""))",Chrome 130.0.0.0,,,12-11-2024 15:46:31,12-11-2024 15:46:32,0.350s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_SELECT ONE_k-icon k-i-arrow-60-down""))",Chrome 130.0.0.0,,,12-11-2024 15:46:32,12-11-2024 15:46:32,0.651s,PASSED
+"click(findTestObject(""Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_Bayambang District Hospital""))",Chrome 130.0.0.0,,,12-11-2024 15:46:32,12-11-2024 15:46:33,0.495s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Username_Username""), CreatingUserAcc)",Chrome 130.0.0.0,,,12-11-2024 15:46:33,12-11-2024 15:46:34,0.747s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Password_Password""), CreatingPassword)",Chrome 130.0.0.0,,,12-11-2024 15:46:34,12-11-2024 15:46:34,0.533s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Confirm password_ConfirmPassword""), CreatingConfirmPassword)",Chrome 130.0.0.0,,,12-11-2024 15:46:34,12-11-2024 15:46:35,0.533s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Email_Email""), CreatingUserEmail)",Chrome 130.0.0.0,,,12-11-2024 15:46:35,12-11-2024 15:46:35,0.540s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Roles_k-input k-readonly""))",Chrome 130.0.0.0,,,12-11-2024 15:46:35,12-11-2024 15:46:35,0.291s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Roles_k-input k-readonly""), Keys.chord(ENTER))",Chrome 130.0.0.0,,,12-11-2024 15:46:35,12-11-2024 15:46:36,0.477s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/div_Admin_flex-list-action""))",Chrome 130.0.0.0,,,12-11-2024 15:46:36,12-11-2024 15:46:37,0.600s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_1""))",Chrome 130.0.0.0,,,12-11-2024 15:46:37,12-11-2024 15:46:37,0.505s,PASSED
+"click(findTestObject(""Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Log off""))",Chrome 130.0.0.0,,,12-11-2024 15:46:37,12-11-2024 15:46:38,1.460s,PASSED
+,,,,,,,
+Test Cases/EasyClaimLoginCreatedAccountAndConnect(OfflineFilling),Chrome 130.0.0.0,,,12-11-2024 15:46:39,12-11-2024 15:46:41,2.078s,PASSED
+navigateToUrl(UrlLogin),Chrome 130.0.0.0,,,12-11-2024 15:46:39,12-11-2024 15:46:39,0.407s,PASSED
+"setText(findTestObject(""Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Username_Username""), CreatedUser)",Chrome 130.0.0.0,,,12-11-2024 15:46:39,12-11-2024 15:46:40,0.545s,PASSED
+"setText(findTestObject(""Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Password_Password""), CreatedPass)",Chrome 130.0.0.0,,,12-11-2024 15:46:40,12-11-2024 15:46:40,0.577s,PASSED
+"click(findTestObject(""Object Repository/Page_LoginAccountCreatedAndConnect/Page_Login - Easy Claims/input_Password_submitBtn""))",Chrome 130.0.0.0,,,12-11-2024 15:46:40,12-11-2024 15:46:41,0.447s,PASSED
+,,,,,,,
+Test Cases/EasyClaimLegacyFileClaiming_CheckEligibility(OfflineFiling),Chrome 130.0.0.0,,,12-11-2024 15:46:41,12-11-2024 15:46:57,16.722s,PASSED
+"click(findTestObject(""Object Repository/Page_LoginAccountCreatedAndConnect/Page_Connect - Easy Claims/span_Claims""))",Chrome 130.0.0.0,,,12-11-2024 15:46:41,12-11-2024 15:46:42,1.042s,PASSED
+"delay(5, STOP_ON_FAILURE)",Chrome 130.0.0.0,,,12-11-2024 15:46:42,12-11-2024 15:46:47,5.016s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims/Page_Home - Easy Claims/a_File Claim""))",Chrome 130.0.0.0,,,12-11-2024 15:46:47,12-11-2024 15:46:47,0.692s,PASSED
+navigateToUrl(NavClaimFiling),Chrome 130.0.0.0,,,12-11-2024 15:46:47,12-11-2024 15:46:48,0.311s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_PIN_MemberPIN""))",Chrome 130.0.0.0,,,12-11-2024 15:46:48,12-11-2024 15:46:49,0.710s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_PIN_MemberPIN""), pPIN)",Chrome 130.0.0.0,,,12-11-2024 15:46:49,12-11-2024 15:46:49,0.322s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/div_MemberGender_DefaultMaleFemale""))",Chrome 130.0.0.0,,,12-11-2024 15:46:49,12-11-2024 15:46:49,0.380s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/div_kendo.syncReady(function()jQuery(Member_da9fb1""))",Chrome 130.0.0.0,,,12-11-2024 15:46:49,12-11-2024 15:46:49,0.263s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Male_MemberGender""))",Chrome 130.0.0.0,,,12-11-2024 15:46:49,12-11-2024 15:46:50,0.276s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/textarea_Mailing Address_MailingAddress""), pMailingAdd)",Chrome 130.0.0.0,,,12-11-2024 15:46:50,12-11-2024 15:46:50,0.302s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Zip Code_ZipCode""))",Chrome 130.0.0.0,,,12-11-2024 15:46:50,12-11-2024 15:46:50,0.265s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Zip Code_ZipCode""), pZipCode)",Chrome 130.0.0.0,,,12-11-2024 15:46:50,12-11-2024 15:46:51,0.280s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/span_Select One_k-select""))",Chrome 130.0.0.0,,,12-11-2024 15:46:51,12-11-2024 15:46:51,0.290s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/li_Individually Paying""))",Chrome 130.0.0.0,,,12-11-2024 15:46:51,12-11-2024 15:46:51,0.495s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/span_Select One_k-icon k-i-arrow-60-down""))",Chrome 130.0.0.0,,,12-11-2024 15:46:51,12-11-2024 15:46:52,0.509s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/li_Member (Self)""))",Chrome 130.0.0.0,,,12-11-2024 15:46:52,12-11-2024 15:46:52,0.508s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Admission Date and Time_AdmissionDateTime""), pAddmissionD)",Chrome 130.0.0.0,,,12-11-2024 15:46:52,12-11-2024 15:46:53,0.506s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Discharge Date and Time_DischargeDateTime""), pDischargeD)",Chrome 130.0.0.0,,,12-11-2024 15:46:53,12-11-2024 15:46:53,0.296s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Save for E-Claims_IsFinal""))",Chrome 130.0.0.0,,,12-11-2024 15:46:53,12-11-2024 15:46:54,0.488s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo""))",Chrome 130.0.0.0,,,12-11-2024 15:46:54,12-11-2024 15:46:54,0.495s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo""), pTransNo)",Chrome 130.0.0.0,,,12-11-2024 15:46:54,12-11-2024 15:46:54,0.255s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Transmittal Number_TransmittalNo""))",Chrome 130.0.0.0,,,12-11-2024 15:46:54,12-11-2024 15:46:55,0.369s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Claim Number_ClaimNumber""), pClaimsNo)",Chrome 130.0.0.0,,,12-11-2024 15:46:55,12-11-2024 15:46:55,0.295s,PASSED
+"setText(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_The Member Last Name field is require_ace58e""), pLastN)",Chrome 130.0.0.0,,,12-11-2024 15:46:55,12-11-2024 15:46:56,0.534s,PASSED
+"setText(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_The Member First Name field is requir_80ac0e""), pFirstN)",Chrome 130.0.0.0,,,12-11-2024 15:46:56,12-11-2024 15:46:56,0.523s,PASSED
+"setText(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Member Name_MemberLastName""), pLastN)",Chrome 130.0.0.0,,,12-11-2024 15:46:56,12-11-2024 15:46:57,0.536s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Date of Birth_MemberBirthDate""), pBOD)",Chrome 130.0.0.0,,,12-11-2024 15:46:57,12-11-2024 15:46:57,0.277s,PASSED
+"click(findTestObject(""Object Repository/Page_ClaimFiling - Easy Claims(Offline)/Page_File Claim - Easy Claims/input_Please ensure that all of the entered_eacd21""))",Chrome 130.0.0.0,,,12-11-2024 15:46:57,12-11-2024 15:46:57,0.333s,PASSED
+,,,,,,,
+Test Cases/EasyClaimLegacyFileClaiming_ConfinementInformation,Chrome 130.0.0.0,,,12-11-2024 15:46:57,12-11-2024 15:47:14,16.547s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Yes_PatientReferred""))",Chrome 130.0.0.0,,,12-11-2024 15:46:57,12-11-2024 15:46:58,0.977s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Yes_IsEmergency""))",Chrome 130.0.0.0,,,12-11-2024 15:46:58,12-11-2024 15:46:59,0.485s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_PatientType_Default_PatientType""))",Chrome 130.0.0.0,,,12-11-2024 15:46:59,12-11-2024 15:46:59,0.274s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Select One_k-icon k-i-arrow-60-down""))",Chrome 130.0.0.0,,,12-11-2024 15:46:59,12-11-2024 15:46:59,0.293s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/li_Improved""))",Chrome 130.0.0.0,,,12-11-2024 15:46:59,12-11-2024 15:47:00,0.497s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Select One_k-icon k-i-arrow-60-down_1""))",Chrome 130.0.0.0,,,12-11-2024 15:47:00,12-11-2024 15:47:00,0.516s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/li_Private""))",Chrome 130.0.0.0,,,12-11-2024 15:47:00,12-11-2024 15:47:01,0.423s,PASSED
+"setText(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/textarea_Admission Diagnosis_AdmissionDiagnosis""), pAdmissionDiagnosis)",Chrome 130.0.0.0,,,12-11-2024 15:47:01,12-11-2024 15:47:02,0.759s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Please add at least one (1) Discharge_bd5a63""))",Chrome 130.0.0.0,,,12-11-2024 15:47:02,12-11-2024 15:47:02,0.305s,PASSED
+"setText(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/textarea_Discharge Diagnosis_DischargeDiagnosis""), pDischargeDiagnosis)",Chrome 130.0.0.0,,,12-11-2024 15:47:02,12-11-2024 15:47:03,1.065s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/a_Add ICD Code""))",Chrome 130.0.0.0,,,12-11-2024 15:47:03,12-11-2024 15:47:03,0.306s,PASSED
+"setText(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_ICD Code_ICDCode_input""), pIcdCode)",Chrome 130.0.0.0,,,12-11-2024 15:47:03,12-11-2024 15:47:04,0.962s,PASSED
+"sendKeys(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_ICD Code_ICDCode_input""), Keys.chord(ENTER))",Chrome 130.0.0.0,,,12-11-2024 15:47:04,12-11-2024 15:47:05,0.686s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/a_Save""))",Chrome 130.0.0.0,,,12-11-2024 15:47:05,12-11-2024 15:47:05,0.509s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/a_Add RVS Code""))",Chrome 130.0.0.0,,,12-11-2024 15:47:05,12-11-2024 15:47:06,0.767s,PASSED
+"setText(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_RVS Code_RVSCode_input""), pRvsCode)",Chrome 130.0.0.0,,,12-11-2024 15:47:06,12-11-2024 15:47:07,1.055s,PASSED
+"sendKeys(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_RVS Code_RVSCode_input""), Keys.chord(ENTER))",Chrome 130.0.0.0,,,12-11-2024 15:47:07,12-11-2024 15:47:08,0.695s,PASSED
+"setText(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/textarea_Related Procedure_RelatedProcedure""), pRelatedProc)",Chrome 130.0.0.0,,,12-11-2024 15:47:08,12-11-2024 15:47:09,0.740s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Select One_k-icon k-i-arrow-60-down_1_2""))",Chrome 130.0.0.0,,,12-11-2024 15:47:09,12-11-2024 15:47:09,0.287s,PASSED
+delay(1),Chrome 130.0.0.0,,,12-11-2024 15:47:09,12-11-2024 15:47:10,1.018s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Right""), 2)",Chrome 130.0.0.0,,,12-11-2024 15:47:10,12-11-2024 15:47:10,0.360s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/span_Right""))",Chrome 130.0.0.0,,,12-11-2024 15:47:10,12-11-2024 15:47:11,0.269s,PASSED
+"sendKeys(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Procedure Date_ProcedureDate""), pProcedureDate)",Chrome 130.0.0.0,,,12-11-2024 15:47:11,12-11-2024 15:47:11,0.504s,PASSED
+"sendKeys(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Procedure Date_ProcedureDate""), Keys.chord(ENTER))",Chrome 130.0.0.0,,,12-11-2024 15:47:11,12-11-2024 15:47:11,0.257s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/a_Save""))",Chrome 130.0.0.0,,,12-11-2024 15:47:11,12-11-2024 15:47:12,0.496s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Please update the RVS Procedure Date(_50687d""))",Chrome 130.0.0.0,,,12-11-2024 15:47:12,12-11-2024 15:47:13,0.706s,PASSED
+"click(findTestObject(""Object Repository/ClaimFiling_ConfinementInfo/Page_Confinement Information - Easy Claims/input_Right Eye IOL Expiry Date_SaveConfine_8606f5""))",Chrome 130.0.0.0,,,12-11-2024 15:47:13,12-11-2024 15:47:13,0.741s,PASSED
+navigateToUrl(NavFeesAndCharges),Chrome 130.0.0.0,,,12-11-2024 15:47:13,12-11-2024 15:47:14,0.476s,PASSED
+,,,,,,,
+Test Cases/EasyClaimLegacyFileClaiming_FeesAndCharges,Chrome 130.0.0.0,,,12-11-2024 15:47:14,12-11-2024 15:47:18,4.221s,PASSED
+"click(findTestObject(""Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Type_k-icon k-i-arrow-60-down""))",Chrome 130.0.0.0,,,12-11-2024 15:47:14,12-11-2024 15:47:16,1.776s,PASSED
+"click(findTestObject(""Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_ICD Code""))",Chrome 130.0.0.0,,,12-11-2024 15:47:16,12-11-2024 15:47:16,0.499s,PASSED
+"setText(findTestObject(""Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_ICD Code_FirstCaseRate.ItemCode_input""), ""p91.3"")",Chrome 130.0.0.0,,,12-11-2024 15:47:16,12-11-2024 15:47:17,1.142s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_ICD Code_FirstCaseRate.ItemCode_input""), Keys.chord(ENTER))",Chrome 130.0.0.0,,,12-11-2024 15:47:17,12-11-2024 15:47:18,0.723s,PASSED

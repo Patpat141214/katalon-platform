@@ -26,12 +26,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'PRO4A_DEPTMCAH_JMC_01'</initValue>
+      <initValue>'PRO01_BDH_IJCM_01'</initValue>
       <name>ConnectUser</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'deptmcah_JMC@01'</initValue>
+      <initValue>'Passw0rdxxx123'</initValue>
       <name>ConnectPass</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -113,5 +113,25 @@
       <description></description>
       <initValue>'RELATED'</initValue>
       <name>pRelatedProc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MILDRED'</initValue>
+      <name>pFirstN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'PERALTA'</initValue>
+      <name>pMiddleN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ZACARIAS'</initValue>
+      <name>pLastN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5/21/1998'</initValue>
+      <name>pBOD</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
