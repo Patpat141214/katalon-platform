@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Date Signed_k-icon k-i-calendar</name>
+   <tag></tag>
+   <elementGuidId>6603f998-e6b2-4231-aedf-95df0b54a4b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datesignedValidation']/span/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0d577e69-bb91-4fdb-8f6c-799ac02a5b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-calendar</value>
+      <webElementGuid>8955e1f9-bae0-41df-8109-0402bd2764a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datesignedValidation&quot;)/span[@class=&quot;k-widget k-datepicker max-currentdate valid-date validate-ds date-signed&quot;]/span[@class=&quot;k-picker-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-calendar&quot;]</value>
+      <webElementGuid>9561984b-7ebe-479d-8189-c84874121c98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datesignedValidation']/span/span/span/span</value>
+      <webElementGuid>d2a207ef-5ffc-41a4-8211-02ae2d3d0d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/span/span/span/span</value>
+      <webElementGuid>2ca44258-cb5b-4ec2-9eb6-df7939ad3465</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

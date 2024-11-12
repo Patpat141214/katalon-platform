@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SaveCancel</name>
+   <tag></tag>
+   <elementGuidId>5822b8ec-ab31-4cb3-a80b-aa2ce45382d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[4]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-state-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f9059df-e40d-4cee-9327-5b9c409a5986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-state-default</value>
+      <webElementGuid>f6ae7af9-43aa-4c62-b16a-62a3f618e3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SaveCancel</value>
+      <webElementGuid>0dbb4329-ae96-4e4f-8f61-2b7588606bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit130 js&quot;]/body[@class=&quot;k-content&quot;]/div[@class=&quot;k-widget k-window k-state-focused&quot;]/div[@class=&quot;k-popup-edit-form k-window-content&quot;]/div[@class=&quot;k-edit-form-container&quot;]/div[@class=&quot;k-state-default&quot;]</value>
+      <webElementGuid>623db604-f2bf-419a-ae71-ea74c0eea729</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[4]/following::div[2]</value>
+      <webElementGuid>55fdfc6a-6fbd-4abe-9616-8dff996f6263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[4]/following::div[4]</value>
+      <webElementGuid>149b3031-b85a-486d-9dce-e9a712816ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select One'])[4]/preceding::div[1]</value>
+      <webElementGuid>3e5cdb77-7bae-4c13-b5c5-7ccc996186d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Room And Board'])[2]/preceding::div[3]</value>
+      <webElementGuid>d74b6dd5-0681-40fd-a99d-f41f03f2e457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[17]</value>
+      <webElementGuid>18a7e7af-cbec-4d63-b401-88c4c3c1df15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SaveCancel' or . = 'SaveCancel')]</value>
+      <webElementGuid>155e51db-bda5-4113-a6b8-b4fb0fbb7adc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Professional Fees and Charges</name>
+   <tag></tag>
+   <elementGuidId>592a10ce-cd71-4d88-9710-b8e0abfef461</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ProfessionalsGrid']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.k-button.k-button-icontext.k-grid-add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1f7818ae-4881-41d6-8da1-8b0705642592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f6f46b2-536c-42be-a21a-9e5445eabe82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button k-button-icontext k-grid-add</value>
+      <webElementGuid>acf47ad9-1ebe-41d5-b9f9-475eaad76e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9a6d855b-9b0d-427a-a95f-da4ed369e2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Professional Fees and Charges</value>
+      <webElementGuid>7a79d213-0ea0-4cbf-8199-728fd4905e2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProfessionalsGrid&quot;)/div[@class=&quot;k-header k-grid-toolbar&quot;]/a[@class=&quot;k-button k-button-icontext k-grid-add&quot;]</value>
+      <webElementGuid>0a1a7c93-1900-4305-8a31-ad40db122146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProfessionalsGrid']/div/a</value>
+      <webElementGuid>d6496439-2048-45b1-ae0f-e8ad384c73c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Professional Fees and Charges')]</value>
+      <webElementGuid>1a635d7f-74ef-4be1-a3e2-0852cc26f2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::a[1]</value>
+      <webElementGuid>291017aa-b773-4573-ad0b-d2714602af97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Second Case Rate'])[1]/following::a[1]</value>
+      <webElementGuid>4fa49ad0-e9ed-4c8b-a1fc-51a5f49a9efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accre Code'])[1]/preceding::a[1]</value>
+      <webElementGuid>559c387a-a9c3-4379-8eb6-63f4596b2f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>89b79f4c-123a-40c3-8a3e-1276e5259782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Professional Fees and Charges']/parent::*</value>
+      <webElementGuid>cef88947-1a99-4584-bbbb-b4f4e953e738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>0b35671d-0624-4d4b-88d2-5779d2420b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/a</value>
+      <webElementGuid>7ffcb56f-5297-4ed1-be79-5784aef5a400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Add Professional Fees and Charges' or . = 'Add Professional Fees and Charges')]</value>
+      <webElementGuid>45e56f3a-cb7e-422c-84e8-4e72c2c507b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

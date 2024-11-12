@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EasyClaimLegacyFileClaiming_CheckEligibility(OfflineFiling)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97c9e3bb-d558-44b3-8a49-6af7ce440114</testCaseGuid>
+</TestCaseEntity>

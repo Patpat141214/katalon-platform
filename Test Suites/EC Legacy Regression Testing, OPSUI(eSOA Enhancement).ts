@@ -85,17 +85,17 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>9c4e34d4-3780-4bdf-94c6-1b7ab32c01b8</guid>
+      <guid>0587759e-ac1a-4e20-b70d-b669cd58dc95</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EasyClaimLoginCreatedAccountAndConnect</testCaseId>
+      <testCaseId>Test Cases/EasyClaimLoginCreatedAccountAndConnect(OfflineFilling)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>67fe23e6-df89-41a8-8cf4-69bdbe7161ff</guid>
+      <guid>6b898101-24dc-45ca-b59b-569912649f58</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EasyClaimLegacyFileClaiming_CheckEligibility</testCaseId>
+      <testCaseId>Test Cases/EasyClaimLegacyFileClaiming_CheckEligibility(OfflineFiling)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

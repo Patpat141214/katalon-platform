@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select One_k-icon k-i-arrow-60-down_1</name>
+   <tag></tag>
+   <elementGuidId>ebb3c978-2256-4bf6-a41c-4d241eb5528b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='feesChargesForm']/div[10]/div[2]/p/span/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused > span.k-select > span.k-icon.k-i-arrow-60-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6ad9f34-3e67-4d91-b9ea-a1688a7a058d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-down</value>
+      <webElementGuid>278dc1bb-8ec1-4345-8be9-d005cffb6023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;feesChargesForm&quot;)/div[@class=&quot;form-group&quot;]/div[2]/p[1]/span[@class=&quot;k-widget k-dropdown dropdownlist-documentType&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
+      <webElementGuid>96c4ca1d-3664-498c-ada0-7be12fc94bb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='feesChargesForm']/div[10]/div[2]/p/span/span/span[2]/span</value>
+      <webElementGuid>b2f68f1f-cf1d-429f-b021-e988afea22f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span/span/span[2]/span</value>
+      <webElementGuid>7701c3e5-1c97-4d37-8310-59c808eece06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

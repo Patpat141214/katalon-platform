@@ -17,140 +17,107 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_All Case Rate_k-icon k-i-arrow-60-down'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Type_k-icon k-i-arrow-60-down'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_All Case Rate'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_ICD Code'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Type_k-icon k-i-arrow-60-down'))
+WebUI.setText(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_ICD Code_FirstCaseRate.ItemCode_input'), 
+    'p91.3')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_ICD Code'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_ICD Code_FirstCaseRate.ItemCode_input'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_ICD Code_k-icon k-i-arrow-60-down'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Add Professional Fees and Charges'))
 
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_ICD Code_FirstCaseRate.ItemCode_input'), 
-    'P91.3')
+//WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Accre Code_DoctorAccreCode'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Add Professional Fees and Charges'))
+//WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Accre Code_DoctorAccreCode'), 
+   // '1302-9813891-1')
 
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Accre Code_DoctorAccreCode'), 
-    '1308-1533299-1')
+//WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Accre Code_DoctorAccreCode'),
+	//Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/div_First Name_k-edit-field'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Select One_k-icon k-i-arrow-60-down'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/div_Accre Code_k-edit-field'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_Yes'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Select One_k-icon k-i-arrow-60-down'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_Yes'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Co-Pay_DoctorCoPay'), 
-    '1000')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Sign Date_k-icon k-i-calendar'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Sign Date_DoctorSignDate'), 
-    '10/28/2024')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Consumption_EnoughBenefits_Default_Co_454067'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_AccessPatientRecords_APRType_Default__6e28a2'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Date Signed_AccessPatientRecords.DateSigned'), 
-    '10/04/2024')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Add Itemized Billing Items'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Select One_k-icon k-i-arrow-60-down_1'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_Room And Board'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Item Code_ItemCode'), 
-    '12')
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Item Name_ItemName'), 
-    'Item')
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit of Measurement_UnitofMeasurement'), 
-    '12')
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit Price_k-formatted-value k-input'), 
-    '₱0.00')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/div_Unit Price'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit Price_UnitPrice'), 
-    '200')
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Quantity_Quantity'), 
-    '10')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Add Professional Fees and Charges_1'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Accre Code_DoctorAccreCode'), 
-    '1308-1533299-1')
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Last Name_DoctorLastName'), 
-    '')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Last Name_DoctorLastName'))
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/div_Accre CodeLast NameFirst NameMiddle Nam_8428f9'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Amount_Amount'), 
-    '2000')
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_k-format_3fd957'), 
-    '₱0.00')
-
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_k-format_3fd957'))
-
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_ChargeNetVAT'), 
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Co-Pay_DoctorCoPay'), 
     '100')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Consumption_EnoughBenefits_Default_Co_454067'))
 
-WebUI.setText(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_ChargeNetVAT'), 
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_AccessPatientRecords_APRType_Default__6e28a2'))
+
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Date Signed_k-icon k-i-calendar'))
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Date Signed_AccessPatientRecords.DateSigned'), 
+    '11/12/2024')
+
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Add Itemized Billing Items'))
+
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Select One_k-select'))
+
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_Room And Board'))
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Item Code_ItemCode'), 
+    'ItemCode')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Item Name_ItemName'), 
+    'ItemName')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit of Measurement_UnitofMeasurement'), 
+    'UOF')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit Price_k-formatted-value k-input'), 
+    '₱0.00')
+
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit Price_k-formatted-value k-input'))
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Unit Price_UnitPrice'), 
     '20')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Quantity_k-formatted-value k-input'), 
+    '0.00')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Consumption_EnoughBenefitsEsoa_Defaul_ded43e'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Quantity_k-formatted-value k-input'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Select One_k-icon k-i-arrow-60-down_1_2'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Quantity_Quantity'), 
+    '20')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_Anesthesia Record'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/div_SaveCancel'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Claim Form 2 (CF2)'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
 
-WebUI.delay(8)
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Add Professional Fees and Charges_1'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Export Form_k-button k-flat k-button-icon_e86315'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Amount_Amount'), 
+    '20000')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Claim Signature Form (CSF)'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_k-format_3fd957'), 
+    '₱0.00')
 
-WebUI.delay(8)
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_k-format_3fd957'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Export Form_k-button k-flat k-button-icon_e86315'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_ChargeNetVAT'), 
+    '200')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_eSOA'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
 
-WebUI.delay(8)
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Export Form_k-button k-flat k-button-icon_e86315'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Charge Net of Applicable VAT_ChargeNetVAT'), 
+    '20')
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_eSOA_saveFeesCharges'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/a_Save'))
 
-WebUI.navigateToUrl('http://172.30.1.26/OPSUI.EasyClaims.Legacy/Claim/ClaimSummary?forEditing=True')
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_Consumption_EnoughBenefitsEsoa_Defaul_ded43e'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Claim Summary - Easy Claims/label_Mark as Complete and Ready for Submission'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/span_Select One_k-icon k-i-arrow-60-down_1'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Claim Summary - Easy Claims/input_Mark as Complete and Ready for Submis_641e2f'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/li_Anesthesia Record'))
 
-WebUI.click(findTestObject('Object Repository/ClaimFiling_FeesAndCharges/Page_Claim Summary - Easy Claims/input_Add new Claim_cancelActionButton'))
+WebUI.click(findTestObject('Object Repository/Page_FeesAndCharges/Page_Fees and Charges - Easy Claims/input_eSOA_saveFeesCharges'))
+
 

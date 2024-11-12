@@ -32,6 +32,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Login, User, Hospital - Ea
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Connect - Easy Claims/span_Control Panel'))
 
+
 WebUI.navigateToUrl(NavigateControlPanel)
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_Hospital Information (offline mode)'))
@@ -61,7 +62,7 @@ WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy 
 
 WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/span_SELECT ONE_k-icon k-i-arrow-60-down'))
 
-WebUI.click(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_Dr. Erlinda P. Tolentino Medical Clinic _78c317'))
+WebUI.click(findTestObject('Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/li_Bayambang District Hospital'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login, User, Hospital - Easy Claims/Page_Control Panel - Easy Claims/input_Username_Username'), 
     CreatingUserAcc)
